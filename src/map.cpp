@@ -1,94 +1,104 @@
+#include "map.h"
+#include <stdexcept>
 #include <iostream>
-#include <vector>
-#include <utility>
 
-class Map {
-private:
-    int rows;
-    int cols;
-    std::vector<std::vector<char>> grid;
+// Singleton Pattern: The Map class is implemented as a singleton, with a private constructor
+// and a static method getInstance to ensure only one instance of the map exists.
+// The getInstance method takes optional parameters for the map dimensions and data,
+// which are used only the first time the singleton instance is created.
+// This ensures the Map class is globally accessible while maintaining a single instance.
 
-public:
-    Map(int rows, int cols) : rows(rows), cols(cols) {
-        grid.resize(rows, std::vector<char>(cols, '.'));
+Map& Map::getInstance(int rows, int cols, const std::vector<std::string>& mapData) {
+    static Map instance(rows, cols, mapData);
+    return instance;
+}
+
+Map::Map(int rows, int cols, const std::vector<std::string>& mapData)
+    : rows(rows), cols(cols), mapData(mapData) {
+    if (int(mapData.size()) != rows || (rows > 0 && int(mapData[0].size()) != cols)) {
+        // print mapData.size() and mapData[0].size() and rows and cols to debug
+        std::cout << "mapData.size(): " << mapData.size() << std::endl;
+        std::cout << "mapData[0].size(): " << mapData[0].size() << std::endl;
+        std::cout << "rows: " << rows << std::endl;
+        std::cout << "cols: " << cols << std::endl;
+        // print mapData to debug
+        for (int i = 0; i < int(mapData.size()); i++) {
+            std::cout << mapData[i] << std::endl;
+        }
+        throw std::invalid_argument("Map dimensions do not match the provided data.");
     }
 
-    void setRedBase(int row, int col) {
-        if (isWithinBounds(row, col)) {
-            grid[row][col] = '#';
+    // Initialize bases with default Base objects
+    for (int i = 0; i < rows; ++i) {
+        for (int j = 0; j < cols; ++j) {
+            bases[std::make_pair(i, j)] = Base();
         }
     }
+}
 
-    void setBlueBase(int row, int col) {
-        if (isWithinBounds(row, col)) {
-            grid[row][col] = '*';
-        }
+int Map::getRows() const {
+    return rows;
+}
+
+int Map::getCols() const {
+    return cols;
+}
+
+char Map::getCell(int row, int col) const {
+    if (!isValidLocation(row, col)) {
+        throw std::out_of_range("Cell position out of range.");
     }
+    return mapData[row][col];
+}
 
-    bool isRedBase(int row, int col) const {
-        if (isWithinBounds(row, col)) {
-            return grid[row][col] == '#';
-        }
-        return false;
-    }
+bool Map::isValidLocation(int row, int col) const {
+    return row >= 0 && row < rows && col >= 0 && col < cols;
+}
 
-    bool isBlueBase(int row, int col) const {
-        if (isWithinBounds(row, col)) {
-            return grid[row][col] == '*';
-        }
-        return false;
-    }
+bool Map::isRedBase(int row, int col) const {
+    return isValidLocation(row, col) && mapData[row][col] == '#';
+}
 
-    bool isNeutralArea(int row, int col) const {
-        if (isWithinBounds(row, col)) {
-            return grid[row][col] == '.';
-        }
-        return false;
-    }
+bool Map::isBlueBase(int row, int col) const {
+    return isValidLocation(row, col) && mapData[row][col] == '*';
+}
 
-    void display() const {
-        for (const auto& row : grid) {
-            for (char cell : row) {
-                std::cout << cell << " ";
-            }
-            std::cout << std::endl;
-        }
-    }
+bool Map::isNeutralZone(int row, int col) const {
+    return isValidLocation(row, col) && mapData[row][col] == '.';
+}
 
-    int getRows() const {
-        return rows;
-    }
-
-    int getCols() const {
-        return cols;
-    }
-
-    std::vector<std::pair<int, int>> getRedBaseLocations() const {
-        std::vector<std::pair<int, int>> locations;
-        for (int row = 0; row < rows; ++row) {
-            for (int col = 0; col < cols; ++col) {
-                if (isRedBase(row, col)) {
-                    locations.emplace_back(row, col);
-                }
-            }
-        }
-        return locations;
-    }
-
-    std::vector<std::pair<int, int>> getBlueBaseLocations() const {
-        std::vector<std::pair<int, int>> locations;
-        for (int row = 0; row < rows; ++row) {
-            for (int col = 0; col < cols; ++col) {
-                if (isBlueBase(row, col)) {
-                    locations.emplace_back(row, col);
-                }
+std::vector<std::pair<int, int>> Map::getRedBases() const {
+    std::vector<std::pair<int, int>> redBases;
+    for (int i = 0; i < rows; ++i) {
+        for (int j = 0; j < cols; ++j) {
+            if (mapData[i][j] == '#') {
+                redBases.push_back(std::make_pair(i, j));
             }
         }
-        return locations;
     }
+    return redBases;
+}
 
-private:
-    bool isWithinBounds(int row, int col) const {
-        return row >= 0 && row < rows && col >= 0 && col < cols;
+std::vector<std::pair<int, int>> Map::getBlueBases() const {
+    std::vector<std::pair<int, int>> blueBases;
+    for (int i = 0; i < rows; ++i) {
+        for (int j = 0; j < cols; ++j) {
+            if (mapData[i][j] == '*') {
+                blueBases.push_back(std::make_pair(i, j));
+            }
+        }
     }
-};
+    return blueBases;
+}
+
+Base* Map::getBaseAtLocation(int row, int col) const {
+    auto it = bases.find(std::make_pair(row, col));
+    if (it != bases.end()) {
+        return const_cast<Base*>(&it->second);
+    }
+    return nullptr;
+}
+
+void Map::setBaseAtLocation(int row, int col, Base& base) {
+    bases[std::make_pair(row, col)] = base;
+}

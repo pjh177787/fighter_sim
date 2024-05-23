@@ -1,36 +1,44 @@
-// Base.h
 #ifndef BASE_H
 #define BASE_H
 
+#include <utility> // for std::pair
+#include <string>
+
 class Base {
-private:
-    int x;
-    int y;
-    int fuelReserve;
-    int missileReserve;
-    int hitPoints;
-    int reward;
-    char type;
-
 public:
-    Base(int x, int y, int fuelReserve, int missileReserve, int hitPoints, int reward, char type);
+    // Default constructor
+    Base();
 
-    int getX() const;
-    int getY() const;
+    // Parameterized constructor to initialize the base with attributes
+    Base(std::pair<int, int> location, int fuelReserve, int missileReserve, int hitPoints, int militaryValue, const std::string& team);
+
+    // Getters for base attributes
+    std::pair<int, int> getLocation() const;
     int getFuelReserve() const;
     int getMissileReserve() const;
     int getHitPoints() const;
-    int getReward() const;
-    char getType() const;
+    int getMilitaryValue() const;
+    std::string getTeam() const;
+    bool isActive() const;
 
-    void setFuelReserve(int fuel);
-    void setMissileReserve(int missiles);
-    void setHitPoints(int hp);
+    // Setters for base attributes
+    void setFuelReserve(int fuelReserve);
+    void setMissileReserve(int missileReserve);
+    void setHitPoints(int hitPoints);
+    void setMilitaryValue(int militaryValue);
+    void setTeam(const std::string& team);
 
-    void replenishFuel(int& fighterFuel);
-    void replenishMissiles(int& fighterMissiles);
+    // Method to take damage
     void takeDamage(int damage);
-    bool isDestroyed() const;
+
+private:
+    std::pair<int, int> location;
+    int fuelReserve;
+    int missileReserve;
+    int hitPoints;
+    int militaryValue;
+    std::string team;
+    bool active;
 };
 
-#endif
+#endif // BASE_H

@@ -1,40 +1,49 @@
-// Fighter.h
 #ifndef FIGHTER_H
 #define FIGHTER_H
 
+#include <utility> // for std::pair
+
 class Fighter {
-private:
-    int id;
-    int row;
-    int col;
-    int fuelCapacity;
-    int missileCapacity;
-    int currentFuel;
-    int currentMissiles;
-    int mapRows;
-    int mapCols;
-
 public:
-    Fighter(int id, int row, int col, int fuelCapacity, int missileCapacity, int mapRows, int mapCols);
+    // Constructor to initialize the fighter with attributes
+    Fighter(int id, std::pair<int, int> initialLocation, int fuelCapacity, int maxMissileCarry);
 
+    // Getters for fighter attributes
     int getId() const;
-    int getRow() const;
-    int getCol() const;
+    std::pair<int, int> getLocation() const;
     int getFuelCapacity() const;
-    int getMissileCapacity() const;
+    int getMaxMissileCarry() const;
     int getCurrentFuel() const;
     int getCurrentMissiles() const;
 
-    bool move(int direction);
-    void refuel();
-    void reloadMissiles();
-    bool launchMissile(int targetRow, int targetCol);
-    bool hasFuel() const;
-    bool hasMissiles() const;
+    // Setters for fighter attributes
+    void setLocation(std::pair<int, int> location);
+    void setCurrentFuel(int fuel);
+    void setCurrentMissiles(int missiles);
+
+    // Methods to move the fighter
+    bool moveUp();
+    bool moveDown();
+    bool moveLeft();
+    bool moveRight();
+
+    // Method to attack (returns true if attack is successful)
+    bool attack(int direction, int missileCount);
+
+    // Methods to replenish fuel and missiles
+    bool replenishFuel(int amount);
+    bool replenishMissiles(int amount);
 
 private:
-    void consumeFuel();
-    bool isWithinBounds(int row, int col) const;
+    int id;
+    std::pair<int, int> location;
+    int fuelCapacity;
+    int maxMissileCarry;
+    int currentFuel;
+    int currentMissiles;
+
+    bool isValidMove(int row, int col) const; // Helper method to check if a move is valid
+    bool isAtBlueBase() const; // Helper method to check if the fighter is at a blue base
 };
 
-#endif
+#endif // FIGHTER_H

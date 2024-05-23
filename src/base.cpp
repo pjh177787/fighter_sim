@@ -1,15 +1,14 @@
-// Base.cpp
-#include "Base.h"
+#include "base.h"
 
-Base::Base(int x, int y, int fuelReserve, int missileReserve, int hitPoints, int reward, char type)
-    : x(x), y(y), fuelReserve(fuelReserve), missileReserve(missileReserve), hitPoints(hitPoints), reward(reward), type(type) {}
+// Default constructor
+Base::Base()
+    : location({0, 0}), fuelReserve(0), missileReserve(0), hitPoints(0), militaryValue(0), team("neutral"), active(true) {}
 
-int Base::getX() const {
-    return x;
-}
+Base::Base(std::pair<int, int> location, int fuelReserve, int missileReserve, int hitPoints, int militaryValue, const std::string& team)
+    : location(location), fuelReserve(fuelReserve), missileReserve(missileReserve), hitPoints(hitPoints), militaryValue(militaryValue), team(team), active(true) {}
 
-int Base::getY() const {
-    return y;
+std::pair<int, int> Base::getLocation() const {
+    return location;
 }
 
 int Base::getFuelReserve() const {
@@ -24,44 +23,42 @@ int Base::getHitPoints() const {
     return hitPoints;
 }
 
-int Base::getReward() const {
-    return reward;
+int Base::getMilitaryValue() const {
+    return militaryValue;
 }
 
-char Base::getType() const {
-    return type;
+std::string Base::getTeam() const {
+    return team;
 }
 
-void Base::setFuelReserve(int fuel) {
-    fuelReserve = fuel;
+bool Base::isActive() const {
+    return active;
 }
 
-void Base::setMissileReserve(int missiles) {
-    missileReserve = missiles;
+void Base::setFuelReserve(int fuelReserve) {
+    this->fuelReserve = fuelReserve;
 }
 
-void Base::setHitPoints(int hp) {
-    hitPoints = hp;
+void Base::setMissileReserve(int missileReserve) {
+    this->missileReserve = missileReserve;
 }
 
-void Base::replenishFuel(int& fighterFuel) {
-    if (fuelReserve > 0) {
-        fighterFuel += fuelReserve;
-        fuelReserve = 0;
+void Base::setHitPoints(int hitPoints) {
+    this->hitPoints = hitPoints;
+    if (this->hitPoints <= 0) {
+        this->hitPoints = 0;
+        active = false;
     }
 }
 
-void Base::replenishMissiles(int& fighterMissiles) {
-    if (missileReserve > 0) {
-        fighterMissiles += missileReserve;
-        missileReserve = 0;
-    }
+void Base::setMilitaryValue(int militaryValue) {
+    this->militaryValue = militaryValue;
+}
+
+void Base::setTeam(const std::string& team) {
+    this->team = team;
 }
 
 void Base::takeDamage(int damage) {
-    hitPoints -= damage;
-}
-
-bool Base::isDestroyed() const {
-    return hitPoints <= 0;
+    setHitPoints(this->hitPoints - damage);
 }
