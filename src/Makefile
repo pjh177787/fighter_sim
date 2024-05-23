@@ -8,13 +8,13 @@ CXXFLAGS = -std=c++17 -Wall -Wextra -O2
 TARGET = game
 
 # Source files
-SRCS = game.cpp map.cpp base.cpp fighter.cpp
+SRCS = game.cpp map.cpp base.cpp fighter.cpp utils.cpp
 
 # Object files (replace .cpp with .o)
 OBJS = $(SRCS:.cpp=.o)
 
 # Header files (dependencies)
-HEADERS = map.h base.h fighter.h
+HEADERS = map.h base.h fighter.h utils.h
 
 # Default target
 all: $(TARGET)
