@@ -22,19 +22,15 @@ for id in $(seq 1 $NUM_TESTS); do
     testcase="testcase$id.in"
     demoout="demo$id.out"
     chekerout="demo$id.log"
+    echo "Running test $id..."
+    echo "Demo:"
     ./fighter/checker/checker $ROOT_DIR/$DATA_DIR/$testcase $ROOT_DIR/$DATA_DIR/$DEMO_OUT/$demoout > $ROOT_DIR/$DATA_DIR/$CHEKER_OUT/$chekerout
-
-    # print final line of checker output
     tail -n 1 $ROOT_DIR/$DATA_DIR/$CHEKER_OUT/$chekerout
-done
 
-echo "Running checker on gamer ..."
-for id in $(seq 1 $NUM_TESTS); do 
-    testcase="testcase$id.in"
     gamerout="gamer$id.out"
     chekerout="gamer$id.log"
+    echo "gamer:"
     ./fighter/checker/checker $ROOT_DIR/$DATA_DIR/$testcase $ROOT_DIR/$DATA_DIR/$GAMER_OUT/$gamerout > $ROOT_DIR/$DATA_DIR/$CHEKER_OUT/$chekerout
-
-    # print final line of checker output
     tail -n 1 $ROOT_DIR/$DATA_DIR/$CHEKER_OUT/$chekerout
+    echo
 done

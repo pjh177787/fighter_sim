@@ -1,601 +1,381 @@
 [INFO] Frame: 1 Score: 0
 [INFO] Frame: 2 Score: 0
 [INFO] Frame: 3 Score: 0
-[INFO] Frame: 4 Score: 0
-[INFO] Frame: 5 Score: 0
-[INFO] Frame: 6 Score: 0
-[INFO] Frame: 7 Score: 0
-[INFO] Frame: 8 Score: 0
-[INFO] Frame: 9 Score: 0
-[INFO] Frame: 10 Score: 0
-[INFO] Frame: 11 Score: 0
-[INFO] Frame: 12 Score: 0
-[INFO] Frame: 13 Score: 0
-[INFO] Frame: 14 Score: 0
-[INFO] Frame: 15 Score: 71
-[INFO] Frame: 16 Score: 71
-[INFO] Frame: 17 Score: 220
-[INFO] Frame: 18 Score: 338
-[INFO] Frame: 19 Score: 364
-[INFO] Frame: 20 Score: 499
-[INFO] Frame: 21 Score: 590
-[INFO] Frame: 22 Score: 590
-[INFO] Frame: 23 Score: 690
-[INFO] Frame: 24 Score: 738
-[INFO] Frame: 25 Score: 738
-[INFO] Frame: 26 Score: 738
-[INFO] Frame: 27 Score: 877
-[INFO] Frame: 28 Score: 905
-[INFO] Frame: 29 Score: 996
-[INFO] Frame: 30 Score: 1183
-[INFO] Frame: 31 Score: 1183
-[INFO] Frame: 32 Score: 1347
-[INFO] Frame: 33 Score: 1492
-[INFO] Frame: 34 Score: 1571
-[INFO] Frame: 35 Score: 1653
-[INFO] Frame: 36 Score: 1752
-[INFO] Frame: 37 Score: 1884
-[INFO] Frame: 38 Score: 1947
-[INFO] Frame: 39 Score: 2068
-[INFO] Frame: 40 Score: 2068
-[INFO] Frame: 41 Score: 2082
-[INFO] Frame: 42 Score: 2082
-[INFO] Frame: 43 Score: 2082
-[INFO] Frame: 44 Score: 2175
-[INFO] Frame: 45 Score: 2275
-[INFO] Frame: 46 Score: 2323
-[INFO] Frame: 47 Score: 2511
-[INFO] Frame: 48 Score: 2542
-[INFO] Frame: 49 Score: 2665
-[INFO] Frame: 50 Score: 2765
-[INFO] Frame: 51 Score: 2828
-[INFO] Frame: 52 Score: 2900
-[INFO] Frame: 53 Score: 2977
-[INFO] Frame: 54 Score: 3113
-[INFO] Frame: 55 Score: 3331
-[INFO] Frame: 56 Score: 3456
-[INFO] Frame: 57 Score: 3790
-[INFO] Frame: 58 Score: 3818
-[INFO] Frame: 59 Score: 4079
-[INFO] Frame: 60 Score: 4260
-[INFO] Frame: 61 Score: 4394
-[INFO] Frame: 62 Score: 4474
-[INFO] Frame: 63 Score: 4546
-[INFO] Frame: 64 Score: 4693
-[INFO] Frame: 65 Score: 4697
-[INFO] Frame: 66 Score: 4800
-[INFO] Frame: 67 Score: 4985
-[INFO] Frame: 68 Score: 5064
-[INFO] Frame: 69 Score: 5285
-[INFO] Frame: 70 Score: 5301
-[INFO] Frame: 71 Score: 5394
-[INFO] Frame: 72 Score: 5584
-[INFO] Frame: 73 Score: 5701
-[INFO] Frame: 74 Score: 5878
-[INFO] Frame: 75 Score: 5972
-[INFO] Frame: 76 Score: 6143
-[INFO] Frame: 77 Score: 6380
-[INFO] Frame: 78 Score: 6538
-[INFO] Frame: 79 Score: 6538
-[INFO] Frame: 80 Score: 6760
-[INFO] Frame: 81 Score: 6774
-[INFO] Frame: 82 Score: 6987
-[INFO] Frame: 83 Score: 7053
-[INFO] Frame: 84 Score: 7075
-[INFO] Frame: 85 Score: 7220
-[INFO] Frame: 86 Score: 7362
-[INFO] Frame: 87 Score: 7578
-[INFO] Frame: 88 Score: 7686
-[INFO] Frame: 89 Score: 7956
-[INFO] Frame: 90 Score: 8000
-[INFO] Frame: 91 Score: 8090
-[INFO] Frame: 92 Score: 8090
-[INFO] Frame: 93 Score: 8495
-[INFO] Frame: 94 Score: 8495
-[INFO] Frame: 95 Score: 8724
-[INFO] Frame: 96 Score: 8961
-[INFO] Frame: 97 Score: 9075
-[INFO] Frame: 98 Score: 9166
-[INFO] Frame: 99 Score: 9379
-[INFO] Frame: 100 Score: 9550
-[INFO] Frame: 101 Score: 9823
-[INFO] Frame: 102 Score: 9892
-[INFO] Frame: 103 Score: 10188
-[INFO] Frame: 104 Score: 10334
-[INFO] Frame: 105 Score: 10655
-[INFO] Frame: 106 Score: 10788
-[INFO] Frame: 107 Score: 11138
-[INFO] Frame: 108 Score: 11480
-[INFO] Frame: 109 Score: 11675
-[INFO] Frame: 110 Score: 11853
-[INFO] Frame: 111 Score: 11986
-[INFO] Frame: 112 Score: 12367
-[INFO] Frame: 113 Score: 12367
-[INFO] Frame: 114 Score: 12749
-[INFO] Frame: 115 Score: 12886
-[INFO] Frame: 116 Score: 13092
-[INFO] Frame: 117 Score: 13256
-[INFO] Frame: 118 Score: 13297
-[INFO] Frame: 119 Score: 13551
-[INFO] Frame: 120 Score: 13752
-[INFO] Frame: 121 Score: 13944
-[INFO] Frame: 122 Score: 14245
-[INFO] Frame: 123 Score: 14321
-[INFO] Frame: 124 Score: 14343
-[INFO] Frame: 125 Score: 14514
-[INFO] Frame: 126 Score: 14657
-[INFO] Frame: 127 Score: 14749
-[INFO] Frame: 128 Score: 14827
-[INFO] Frame: 129 Score: 14827
-[INFO] Frame: 130 Score: 14937
-[INFO] Frame: 131 Score: 15025
-[INFO] Frame: 132 Score: 15033
-[INFO] Frame: 133 Score: 15123
-[INFO] Frame: 134 Score: 15123
-[INFO] Frame: 135 Score: 15166
-[INFO] Frame: 136 Score: 15173
-[INFO] Frame: 137 Score: 15342
-[INFO] Frame: 138 Score: 15342
-[INFO] Frame: 139 Score: 15461
-[INFO] Frame: 140 Score: 15571
-[INFO] Frame: 141 Score: 15596
-[INFO] Frame: 142 Score: 15802
-[INFO] Frame: 143 Score: 16044
-[INFO] Frame: 144 Score: 16143
-[INFO] Frame: 145 Score: 16318
-[INFO] Frame: 146 Score: 16457
-[INFO] Frame: 147 Score: 16630
-[INFO] Frame: 148 Score: 16829
-[INFO] Frame: 149 Score: 16829
-[INFO] Frame: 150 Score: 17223
-[INFO] Frame: 151 Score: 17372
-[INFO] Frame: 152 Score: 17594
-[INFO] Frame: 153 Score: 17638
-[INFO] Frame: 154 Score: 17698
-[INFO] Frame: 155 Score: 17799
-[INFO] Frame: 156 Score: 17847
-[INFO] Frame: 157 Score: 17912
-[INFO] Frame: 158 Score: 18010
-[INFO] Frame: 159 Score: 18035
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 160 Score: 18035
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 161 Score: 18229
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 162 Score: 18451
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 163 Score: 18550
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 164 Score: 18648
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 165 Score: 18757
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 166 Score: 18870
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 167 Score: 19084
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 168 Score: 19143
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 169 Score: 19185
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 170 Score: 19305
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 171 Score: 19368
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 172 Score: 19400
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 173 Score: 19568
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 174 Score: 19612
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 175 Score: 19720
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 176 Score: 19801
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 177 Score: 19807
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 178 Score: 19865
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 179 Score: 19966
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 180 Score: 19966
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 181 Score: 20150
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 182 Score: 20150
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 183 Score: 20275
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 184 Score: 20275
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 185 Score: 20661
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 186 Score: 20661
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 187 Score: 20891
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 188 Score: 20991
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 189 Score: 20997
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 190 Score: 21174
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 191 Score: 21182
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 192 Score: 21344
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 193 Score: 21458
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 194 Score: 21526
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 195 Score: 21563
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 196 Score: 21851
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 197 Score: 21878
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 198 Score: 21934
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 199 Score: 22008
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 200 Score: 22128
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 201 Score: 22253
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 202 Score: 22354
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 203 Score: 22555
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 204 Score: 22870
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 205 Score: 22974
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 206 Score: 23076
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 207 Score: 23299
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 208 Score: 23371
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 209 Score: 23531
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 210 Score: 23807
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 211 Score: 23807
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 212 Score: 24097
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 213 Score: 24259
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 214 Score: 24349
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 215 Score: 24496
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 216 Score: 24538
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 217 Score: 24671
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 218 Score: 24853
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 219 Score: 25068
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 220 Score: 25104
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 221 Score: 25183
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 222 Score: 25381
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 223 Score: 25588
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 224 Score: 25603
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 225 Score: 25696
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 226 Score: 25725
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 227 Score: 25726
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 228 Score: 25811
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 229 Score: 25888
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 230 Score: 25888
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 231 Score: 25888
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 232 Score: 25888
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 233 Score: 25909
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 234 Score: 25909
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 235 Score: 25977
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 236 Score: 26053
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 237 Score: 26053
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 238 Score: 26111
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 239 Score: 26250
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 240 Score: 26250
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 241 Score: 26263
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 242 Score: 26263
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 243 Score: 26294
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 244 Score: 26294
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 245 Score: 26321
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 246 Score: 26321
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 247 Score: 26340
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 248 Score: 26340
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 249 Score: 26426
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 250 Score: 26426
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 251 Score: 26452
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 252 Score: 26539
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 253 Score: 26539
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 254 Score: 26575
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 255 Score: 26654
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 256 Score: 26654
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 257 Score: 26723
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 258 Score: 26821
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 259 Score: 26844
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 260 Score: 26844
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 261 Score: 26844
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 262 Score: 26844
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 263 Score: 26863
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 264 Score: 26863
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 265 Score: 26863
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 266 Score: 27021
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 267 Score: 27021
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 268 Score: 27204
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 269 Score: 27204
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 270 Score: 27274
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 271 Score: 27338
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 272 Score: 27338
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 273 Score: 27596
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 274 Score: 27596
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 275 Score: 27757
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 276 Score: 27757
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 277 Score: 27804
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 278 Score: 27804
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 279 Score: 27804
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 280 Score: 27804
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 281 Score: 27875
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 282 Score: 27875
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 283 Score: 27948
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 284 Score: 27948
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 285 Score: 28035
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 286 Score: 28157
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 287 Score: 28182
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 288 Score: 28214
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 289 Score: 28267
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 290 Score: 28349
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 291 Score: 28349
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 292 Score: 28435
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 293 Score: 28524
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 294 Score: 28524
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 295 Score: 28684
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 296 Score: 28699
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 297 Score: 28714
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 298 Score: 28755
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 299 Score: 28854
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 300 Score: 28870
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 301 Score: 28976
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 302 Score: 29008
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 303 Score: 29008
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 304 Score: 29099
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 305 Score: 29099
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 306 Score: 29139
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 307 Score: 29139
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 308 Score: 29211
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 309 Score: 29211
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 310 Score: 29211
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 311 Score: 29300
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 312 Score: 29300
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 313 Score: 29436
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 314 Score: 29609
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 315 Score: 29609
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 316 Score: 29647
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 317 Score: 29693
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 318 Score: 29693
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 319 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 320 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 321 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 322 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 323 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 324 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 325 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 326 Score: 29729
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 327 Score: 29736
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 328 Score: 29756
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 329 Score: 29756
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 330 Score: 29846
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 331 Score: 29926
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 332 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 333 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 334 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 335 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 336 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 337 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 338 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 339 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 340 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 341 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 342 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 343 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 344 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 345 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 346 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 347 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 348 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 349 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 350 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 351 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 352 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 353 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 354 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 355 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 356 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 357 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 358 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 359 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 360 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 361 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 362 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 363 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 364 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 365 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 366 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 367 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 368 Score: 29946
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 369 Score: 29966
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 370 Score: 29977
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 371 Score: 29977
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 372 Score: 30026
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 373 Score: 30125
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 374 Score: 30125
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 375 Score: 30138
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 376 Score: 30159
-[WARNING] move 3 1: No fuel to fly
-[INFO] Frame: 377 Score: 30159
-[WARNING] move 3 1: No fuel to fly
+[INFO] Frame: 4 Score: 7
+[INFO] Frame: 5 Score: 7
+[INFO] Frame: 6 Score: 113
+[INFO] Frame: 7 Score: 113
+[INFO] Frame: 8 Score: 272
+[INFO] Frame: 9 Score: 354
+[INFO] Frame: 10 Score: 380
+[INFO] Frame: 11 Score: 546
+[INFO] Frame: 12 Score: 570
+[INFO] Frame: 13 Score: 597
+[INFO] Frame: 14 Score: 733
+[INFO] Frame: 15 Score: 781
+[INFO] Frame: 16 Score: 1098
+[INFO] Frame: 17 Score: 1236
+[INFO] Frame: 18 Score: 1385
+[INFO] Frame: 19 Score: 1703
+[INFO] Frame: 20 Score: 1780
+[INFO] Frame: 21 Score: 2179
+[INFO] Frame: 22 Score: 2280
+[INFO] Frame: 23 Score: 2717
+[INFO] Frame: 24 Score: 2962
+[INFO] Frame: 25 Score: 3320
+[INFO] Frame: 26 Score: 3614
+[INFO] Frame: 27 Score: 3941
+[INFO] Frame: 28 Score: 4336
+[INFO] Frame: 29 Score: 4380
+[INFO] Frame: 30 Score: 4728
+[INFO] Frame: 31 Score: 5036
+[INFO] Frame: 32 Score: 5239
+[INFO] Frame: 33 Score: 5318
+[INFO] Frame: 34 Score: 5597
+[INFO] Frame: 35 Score: 6000
+[INFO] Frame: 36 Score: 6365
+[INFO] Frame: 37 Score: 6633
+[INFO] Frame: 38 Score: 6844
+[INFO] Frame: 39 Score: 7127
+[INFO] Frame: 40 Score: 7258
+[INFO] Frame: 41 Score: 7472
+[INFO] Frame: 42 Score: 7622
+[INFO] Frame: 43 Score: 7958
+[INFO] Frame: 44 Score: 8141
+[INFO] Frame: 45 Score: 8526
+[INFO] Frame: 46 Score: 8830
+[INFO] Frame: 47 Score: 9052
+[INFO] Frame: 48 Score: 9086
+[INFO] Frame: 49 Score: 9491
+[INFO] Frame: 50 Score: 9590
+[INFO] Frame: 51 Score: 10051
+[INFO] Frame: 52 Score: 10227
+[INFO] Frame: 53 Score: 10648
+[INFO] Frame: 54 Score: 10677
+[INFO] Frame: 55 Score: 10959
+[INFO] Frame: 56 Score: 11074
+[INFO] Frame: 57 Score: 11474
+[INFO] Frame: 58 Score: 11500
+[INFO] Frame: 59 Score: 11871
+[INFO] Frame: 60 Score: 12197
+[INFO] Frame: 61 Score: 12661
+[INFO] Frame: 62 Score: 13116
+[INFO] Frame: 63 Score: 13573
+[INFO] Frame: 64 Score: 13981
+[INFO] Frame: 65 Score: 14224
+[INFO] Frame: 66 Score: 14556
+[INFO] Frame: 67 Score: 15236
+[INFO] Frame: 68 Score: 15529
+[INFO] Frame: 69 Score: 15820
+[INFO] Frame: 70 Score: 16066
+[INFO] Frame: 71 Score: 16092
+[INFO] Frame: 72 Score: 16580
+[INFO] Frame: 73 Score: 16616
+[INFO] Frame: 74 Score: 16782
+[INFO] Frame: 75 Score: 16985
+[INFO] Frame: 76 Score: 17264
+[INFO] Frame: 77 Score: 17505
+[INFO] Frame: 78 Score: 17787
+[INFO] Frame: 79 Score: 18255
+[INFO] Frame: 80 Score: 18357
+[INFO] Frame: 81 Score: 18693
+[INFO] Frame: 82 Score: 18795
+[INFO] Frame: 83 Score: 19130
+[INFO] Frame: 84 Score: 19593
+[INFO] Frame: 85 Score: 19766
+[INFO] Frame: 86 Score: 20169
+[INFO] Frame: 87 Score: 20496
+[INFO] Frame: 88 Score: 20558
+[INFO] Frame: 89 Score: 20845
+[INFO] Frame: 90 Score: 20852
+[INFO] Frame: 91 Score: 21168
+[INFO] Frame: 92 Score: 21249
+[INFO] Frame: 93 Score: 21459
+[INFO] Frame: 94 Score: 21616
+[INFO] Frame: 95 Score: 21711
+[INFO] Frame: 96 Score: 22148
+[INFO] Frame: 97 Score: 22347
+[INFO] Frame: 98 Score: 22545
+[INFO] Frame: 99 Score: 22723
+[INFO] Frame: 100 Score: 22938
+[INFO] Frame: 101 Score: 23090
+[INFO] Frame: 102 Score: 23094
+[INFO] Frame: 103 Score: 23315
+[INFO] Frame: 104 Score: 23386
+[INFO] Frame: 105 Score: 23528
+[INFO] Frame: 106 Score: 23595
+[INFO] Frame: 107 Score: 23712
+[INFO] Frame: 108 Score: 23874
+[INFO] Frame: 109 Score: 23919
+[INFO] Frame: 110 Score: 24097
+[INFO] Frame: 111 Score: 24155
+[INFO] Frame: 112 Score: 24331
+[INFO] Frame: 113 Score: 24378
+[INFO] Frame: 114 Score: 24642
+[INFO] Frame: 115 Score: 24716
+[INFO] Frame: 116 Score: 25186
+[INFO] Frame: 117 Score: 25431
+[INFO] Frame: 118 Score: 25797
+[INFO] Frame: 119 Score: 25988
+[INFO] Frame: 120 Score: 26201
+[INFO] Frame: 121 Score: 26498
+[INFO] Frame: 122 Score: 26647
+[INFO] Frame: 123 Score: 26937
+[INFO] Frame: 124 Score: 27299
+[INFO] Frame: 125 Score: 27427
+[INFO] Frame: 126 Score: 27819
+[INFO] Frame: 127 Score: 27844
+[INFO] Frame: 128 Score: 28114
+[INFO] Frame: 129 Score: 28263
+[INFO] Frame: 130 Score: 28288
+[INFO] Frame: 131 Score: 28301
+[INFO] Frame: 132 Score: 28516
+[INFO] Frame: 133 Score: 28649
+[INFO] Frame: 134 Score: 28761
+[INFO] Frame: 135 Score: 28775
+[INFO] Frame: 136 Score: 28980
+[INFO] Frame: 137 Score: 29126
+[INFO] Frame: 138 Score: 29181
+[INFO] Frame: 139 Score: 29270
+[INFO] Frame: 140 Score: 29290
+[INFO] Frame: 141 Score: 29388
+[INFO] Frame: 142 Score: 29388
+[INFO] Frame: 143 Score: 29482
+[INFO] Frame: 144 Score: 29482
+[INFO] Frame: 145 Score: 29482
+[INFO] Frame: 146 Score: 29581
+[INFO] Frame: 147 Score: 29581
+[INFO] Frame: 148 Score: 29581
+[INFO] Frame: 149 Score: 29581
+[INFO] Frame: 150 Score: 29619
+[INFO] Frame: 151 Score: 29633
+[INFO] Frame: 152 Score: 29646
+[INFO] Frame: 153 Score: 29646
+[INFO] Frame: 154 Score: 29718
+[INFO] Frame: 155 Score: 29788
+[INFO] Frame: 156 Score: 29788
+[INFO] Frame: 157 Score: 29886
+[INFO] Frame: 158 Score: 29911
+[INFO] Frame: 159 Score: 29911
+[INFO] Frame: 160 Score: 29937
+[INFO] Frame: 161 Score: 29937
+[INFO] Frame: 162 Score: 29937
+[INFO] Frame: 163 Score: 29943
+[INFO] Frame: 164 Score: 29951
+[INFO] Frame: 165 Score: 29951
+[INFO] Frame: 166 Score: 29951
+[INFO] Frame: 167 Score: 29951
+[INFO] Frame: 168 Score: 29951
+[INFO] Frame: 169 Score: 29951
+[INFO] Frame: 170 Score: 29951
+[INFO] Frame: 171 Score: 29951
+[INFO] Frame: 172 Score: 29951
+[INFO] Frame: 173 Score: 29951
+[INFO] Frame: 174 Score: 29971
+[INFO] Frame: 175 Score: 29971
+[INFO] Frame: 176 Score: 29971
+[INFO] Frame: 177 Score: 30061
+[INFO] Frame: 178 Score: 30061
+[INFO] Frame: 179 Score: 30081
+[INFO] Frame: 180 Score: 30161
+[INFO] Frame: 181 Score: 30168
+[INFO] Frame: 182 Score: 30168
+[INFO] Frame: 183 Score: 30168
+[INFO] Frame: 184 Score: 30168
+[INFO] Frame: 185 Score: 30168
+[INFO] Frame: 186 Score: 30168
+[INFO] Frame: 187 Score: 30168
+[INFO] Frame: 188 Score: 30168
+[INFO] Frame: 189 Score: 30168
+[INFO] Frame: 190 Score: 30168
+[INFO] Frame: 191 Score: 30168
+[INFO] Frame: 192 Score: 30168
+[INFO] Frame: 193 Score: 30168
+[INFO] Frame: 194 Score: 30168
+[INFO] Frame: 195 Score: 30168
+[INFO] Frame: 196 Score: 30168
+[INFO] Frame: 197 Score: 30168
+[INFO] Frame: 198 Score: 30168
+[INFO] Frame: 199 Score: 30168
+[INFO] Frame: 200 Score: 30168
+[INFO] Frame: 201 Score: 30168
+[INFO] Frame: 202 Score: 30168
+[INFO] Frame: 203 Score: 30168
+[INFO] Frame: 204 Score: 30168
+[INFO] Frame: 205 Score: 30168
+[INFO] Frame: 206 Score: 30168
+[INFO] Frame: 207 Score: 30168
+[INFO] Frame: 208 Score: 30168
+[INFO] Frame: 209 Score: 30168
+[INFO] Frame: 210 Score: 30168
+[INFO] Frame: 211 Score: 30168
+[INFO] Frame: 212 Score: 30168
+[INFO] Frame: 213 Score: 30168
+[INFO] Frame: 214 Score: 30168
+[INFO] Frame: 215 Score: 30168
+[INFO] Frame: 216 Score: 30168
+[INFO] Frame: 217 Score: 30168
+[INFO] Frame: 218 Score: 30168
+[INFO] Frame: 219 Score: 30168
+[INFO] Frame: 220 Score: 30168
+[INFO] Frame: 221 Score: 30168
+[INFO] Frame: 222 Score: 30168
+[INFO] Frame: 223 Score: 30168
+[INFO] Frame: 224 Score: 30168
+[INFO] Frame: 225 Score: 30168
+[INFO] Frame: 226 Score: 30168
+[INFO] Frame: 227 Score: 30168
+[INFO] Frame: 228 Score: 30168
+[INFO] Frame: 229 Score: 30168
+[INFO] Frame: 230 Score: 30168
+[INFO] Frame: 231 Score: 30168
+[INFO] Frame: 232 Score: 30168
+[INFO] Frame: 233 Score: 30168
+[INFO] Frame: 234 Score: 30168
+[INFO] Frame: 235 Score: 30168
+[INFO] Frame: 236 Score: 30168
+[INFO] Frame: 237 Score: 30168
+[INFO] Frame: 238 Score: 30168
+[INFO] Frame: 239 Score: 30168
+[INFO] Frame: 240 Score: 30168
+[INFO] Frame: 241 Score: 30168
+[INFO] Frame: 242 Score: 30168
+[INFO] Frame: 243 Score: 30168
+[INFO] Frame: 244 Score: 30168
+[INFO] Frame: 245 Score: 30168
+[INFO] Frame: 246 Score: 30168
+[INFO] Frame: 247 Score: 30168
+[INFO] Frame: 248 Score: 30168
+[INFO] Frame: 249 Score: 30168
+[INFO] Frame: 250 Score: 30168
+[INFO] Frame: 251 Score: 30168
+[INFO] Frame: 252 Score: 30168
+[INFO] Frame: 253 Score: 30168
+[INFO] Frame: 254 Score: 30168
+[INFO] Frame: 255 Score: 30168
+[INFO] Frame: 256 Score: 30168
+[INFO] Frame: 257 Score: 30168
+[INFO] Frame: 258 Score: 30168
+[INFO] Frame: 259 Score: 30168
+[INFO] Frame: 260 Score: 30168
+[INFO] Frame: 261 Score: 30168
+[INFO] Frame: 262 Score: 30168
+[INFO] Frame: 263 Score: 30168
+[INFO] Frame: 264 Score: 30168
+[INFO] Frame: 265 Score: 30168
+[INFO] Frame: 266 Score: 30168
+[INFO] Frame: 267 Score: 30168
+[INFO] Frame: 268 Score: 30168
+[INFO] Frame: 269 Score: 30168
+[INFO] Frame: 270 Score: 30168
+[INFO] Frame: 271 Score: 30168
+[INFO] Frame: 272 Score: 30168
+[INFO] Frame: 273 Score: 30168
+[INFO] Frame: 274 Score: 30168
+[INFO] Frame: 275 Score: 30168
+[INFO] Frame: 276 Score: 30168
+[INFO] Frame: 277 Score: 30168
+[INFO] Frame: 278 Score: 30168
+[INFO] Frame: 279 Score: 30168
+[INFO] Frame: 280 Score: 30168
+[INFO] Frame: 281 Score: 30168
+[INFO] Frame: 282 Score: 30168
+[INFO] Frame: 283 Score: 30168
+[INFO] Frame: 284 Score: 30168
+[INFO] Frame: 285 Score: 30168
+[INFO] Frame: 286 Score: 30168
+[INFO] Frame: 287 Score: 30168
+[INFO] Frame: 288 Score: 30168
+[INFO] Frame: 289 Score: 30168
+[INFO] Frame: 290 Score: 30168
+[INFO] Frame: 291 Score: 30168
+[INFO] Frame: 292 Score: 30168
+[INFO] Frame: 293 Score: 30168
+[INFO] Frame: 294 Score: 30168
+[INFO] Frame: 295 Score: 30168
+[INFO] Frame: 296 Score: 30168
+[INFO] Frame: 297 Score: 30168
+[INFO] Frame: 298 Score: 30168
+[INFO] Frame: 299 Score: 30168
+[INFO] Frame: 300 Score: 30168
+[INFO] Frame: 301 Score: 30168
+[INFO] Frame: 302 Score: 30168
+[INFO] Frame: 303 Score: 30168
+[INFO] Frame: 304 Score: 30168
+[INFO] Frame: 305 Score: 30168
+[INFO] Frame: 306 Score: 30168
+[INFO] Frame: 307 Score: 30168
+[INFO] Frame: 308 Score: 30168
+[INFO] Frame: 309 Score: 30168
+[INFO] Frame: 310 Score: 30168
+[INFO] Frame: 311 Score: 30168
+[INFO] Frame: 312 Score: 30168
+[INFO] Frame: 313 Score: 30168
+[INFO] Frame: 314 Score: 30168
+[INFO] Frame: 315 Score: 30168
+[INFO] Frame: 316 Score: 30168
+[INFO] Frame: 317 Score: 30168
+[INFO] Frame: 318 Score: 30168
+[INFO] Frame: 319 Score: 30168
+[INFO] Frame: 320 Score: 30168
+[INFO] Frame: 321 Score: 30168
+[INFO] Frame: 322 Score: 30168
+[INFO] Frame: 323 Score: 30168
+[INFO] Frame: 324 Score: 30168
+[INFO] Frame: 325 Score: 30168
+[INFO] Frame: 326 Score: 30168
+[INFO] Frame: 327 Score: 30168
+[INFO] Frame: 328 Score: 30168
+[INFO] Frame: 329 Score: 30168
+[INFO] Frame: 330 Score: 30168
+[INFO] Frame: 331 Score: 30168
+[INFO] Frame: 332 Score: 30168
+[INFO] Frame: 333 Score: 30168
+[INFO] Frame: 334 Score: 30168
+[INFO] Frame: 335 Score: 30168
+[INFO] Frame: 336 Score: 30168
+[INFO] Frame: 337 Score: 30168
+[INFO] Frame: 338 Score: 30168
+[INFO] Frame: 339 Score: 30168
+[INFO] Frame: 340 Score: 30168
+[INFO] Frame: 341 Score: 30168
+[INFO] Frame: 342 Score: 30168
+[INFO] Frame: 343 Score: 30168
+[INFO] Frame: 344 Score: 30168
+[INFO] Frame: 345 Score: 30168
+[INFO] Frame: 346 Score: 30168
+[INFO] Frame: 347 Score: 30168
+[INFO] Frame: 348 Score: 30168
+[INFO] Frame: 349 Score: 30168
+[INFO] Frame: 350 Score: 30168
+[INFO] Frame: 351 Score: 30168
+[INFO] Frame: 352 Score: 30168
+[INFO] Frame: 353 Score: 30168
+[INFO] Frame: 354 Score: 30168
+[INFO] Frame: 355 Score: 30168
+[INFO] Frame: 356 Score: 30168
+[INFO] Frame: 357 Score: 30168
+[INFO] Frame: 358 Score: 30168
+[INFO] Frame: 359 Score: 30168
+[INFO] Frame: 360 Score: 30168
+[INFO] Frame: 361 Score: 30168
+[INFO] Frame: 362 Score: 30168
+[INFO] Frame: 363 Score: 30168
+[INFO] Frame: 364 Score: 30168
+[INFO] Frame: 365 Score: 30168
+[INFO] Frame: 366 Score: 30168
+[INFO] Frame: 367 Score: 30168
+[INFO] Frame: 368 Score: 30168
+[INFO] Frame: 369 Score: 30168
+[INFO] Frame: 370 Score: 30168
+[INFO] Frame: 371 Score: 30168
+[INFO] Frame: 372 Score: 30168
+[INFO] Frame: 373 Score: 30168
+[INFO] Frame: 374 Score: 30168
+[INFO] Frame: 375 Score: 30168
+[INFO] Frame: 376 Score: 30168
+[INFO] Frame: 377 Score: 30168
 [INFO] Frame: 378 Score: 30168
-[WARNING] move 3 1: No fuel to fly
 [INFO] Frame: 379 Score: 30168
 [INFO] Frame: 380 Score: 30168
 [INFO] Frame: 381 Score: 30168

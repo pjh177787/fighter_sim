@@ -18,6 +18,7 @@ mkdir -p $ROOT_DIR/$DATA_DIR/$OUT_DIR
 for id in $(seq 1 $NUM_TESTS); do 
     testcase="testcase$id.in"
     demoout="demo$id.out"
+    echo "Running test $id..."
     ./fighter/demo/demo < $ROOT_DIR/$DATA_DIR/$testcase > $ROOT_DIR/$DATA_DIR/$OUT_DIR/$demoout
 done
 

@@ -23,6 +23,7 @@ cd ..
 for id in $(seq 1 $NUM_TESTS); do 
     testcase="testcase$id.in"
     gamerout="gamer$id.out"
+    echo "Running test $id..."
     ./src/gamer < $ROOT_DIR/$DATA_DIR/$testcase > $ROOT_DIR/$DATA_DIR/$OUT_DIR/$gamerout
 done
 

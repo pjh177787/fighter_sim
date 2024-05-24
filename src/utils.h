@@ -8,6 +8,9 @@
 #include "fighter.h"
 #include "map.h"
 
+// Function to print debug messages
+void printDebugMessage(const std::string &message);
+
 // Function to check if a location is within the map boundaries
 bool isWithinBounds(const std::pair<int, int>& loc, int numRows, int numCols);
 

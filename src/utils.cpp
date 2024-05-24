@@ -18,26 +18,52 @@
 #define INT_MAX 2147483647
 
 using namespace std;
-// #define DEBUG
+#define DEBUG
+
+#include <fstream>
+#include <iomanip>
+
+void printDebugMessage(const string &message)
+{
+    std::ofstream debugFile("debug.txt", std::ios_base::app);
+    if (debugFile.is_open())
+    {
+        debugFile << message << std::endl;
+        debugFile.close();
+    }
+    else
+    {
+        std::cerr << "Failed to open debug file" << std::endl;
+    }
+}
 
 // Function to check if a location is within the map boundaries
-bool isWithinBounds(const pair<int, int>& loc, int numRows, int numCols) {
+bool isWithinBounds(const pair<int, int> &loc, int numRows, int numCols)
+{
     return loc.first >= 0 && loc.first < numRows && loc.second >= 0 && loc.second < numCols;
 }
 
 // Function to calculate Manhattan distance between two points
-int calculateDistanceL1(const std::pair<int, int>& start, const std::pair<int, int>& end) {
+int calculateDistanceL1(const std::pair<int, int> &start, const std::pair<int, int> &end)
+{
     return abs(start.first - end.first) + abs(start.second - end.second);
 }
 
 // Function to calculate the actual distance between two points using BFS
 int calculateDistanceBFS(const std::pair<int, int> &start, const std::pair<int, int> &end, const std::vector<Base *> &redBases, int numRows, int numCols)
 {
-    if (start == end) return 0;
+    if (start == end)
+        return 0;
+    int L1Distance = calculateDistanceL1(start, end);
+    if (L1Distance <= 2)
+        return L1Distance; // Return 1 if the start and end points are adjacent
 
-    auto isActiveRedBase = [&](const std::pair<int, int>& loc) {
-        for (const auto& base : redBases) {
-            if (base->isActive() && base->getLocation() == loc) {
+    auto isActiveRedBase = [&](const std::pair<int, int> &loc)
+    {
+        for (const auto &base : redBases)
+        {
+            if (base->isActive() && base->getLocation() == loc)
+            {
                 return true;
             }
         }
@@ -50,31 +76,37 @@ int calculateDistanceBFS(const std::pair<int, int> &start, const std::pair<int, 
     visited.insert(start.first * numCols + start.second);
 
     std::vector<std::pair<int, int>> directions = {
-        { -1, 0 }, // Up
-        { 1, 0 },  // Down
-        { 0, -1 }, // Left
-        { 0, 1 }   // Right
+        {-1, 0}, // Up
+        {1, 0},  // Down
+        {0, -1}, // Left
+        {0, 1}   // Right
     };
 
     int distance = 0;
 
-    while (!q.empty()) {
+    while (!q.empty())
+    {
         int levelSize = q.size();
         distance++;
-        for (int i = 0; i < levelSize; ++i) {
+        for (int i = 0; i < levelSize; ++i)
+        {
             auto current = q.front();
             q.pop();
 
-            for (const auto& dir : directions) {
-                std::pair<int, int> next = { current.first + dir.first, current.second + dir.second };
+            for (const auto &dir : directions)
+            {
+                std::pair<int, int> next = {current.first + dir.first, current.second + dir.second};
 
-                if (next == end) {
+                if (next == end)
+                {
                     return distance;
                 }
 
-                if (isWithinBounds(next, numRows, numCols) && !isActiveRedBase(next)) {
+                if (isWithinBounds(next, numRows, numCols) && !isActiveRedBase(next))
+                {
                     int nextIndex = next.first * numCols + next.second;
-                    if (visited.find(nextIndex) == visited.end()) {
+                    if (visited.find(nextIndex) == visited.end())
+                    {
                         visited.insert(nextIndex);
                         q.push(next);
                     }
@@ -87,17 +119,16 @@ int calculateDistanceBFS(const std::pair<int, int> &start, const std::pair<int, 
 }
 
 // Function to order bases by distance from a given fighter
-std::vector<Base *> orderBaseDistance(Fighter &fighter, std::vector<Base *> &bases, const std::vector<Base *> &redBases, int numRows, int numCols)
+std::vector<Base *> orderBaseDistance(Fighter &fighter, std::vector<Base *> &bases)
 {
     std::vector<Base *> orderedBases = bases;
 
     // Sort the pointers based on their distance to the fighter's location
     std::sort(orderedBases.begin(), orderedBases.end(), [&fighter](Base *a, Base *b)
-    {
+              {
         int distanceA = calculateDistanceL1(fighter.getLocation(), a->getLocation());
         int distanceB = calculateDistanceL1(fighter.getLocation(), b->getLocation());
-        return distanceA < distanceB;
-    });
+        return distanceA < distanceB; });
 
     // Sort the pointers based on their distance to the fighter's location with BFS for the first 3 bases
     // std::sort(orderedBases.begin(), orderedBases.begin()+3, [&fighter, &redBases, numRows, numCols](Base *a, Base *b)
@@ -110,15 +141,16 @@ std::vector<Base *> orderBaseDistance(Fighter &fighter, std::vector<Base *> &bas
     return orderedBases;
 }
 
-void findBlueBase(Map &gameMap, vector<Fighter> &fighters, vector<Base*>& fuelBlueBases, vector<Base*>& missileBlueBases, vector<Base*>& redBases, map<Fighter *, Base *> &fighterTargets, vector<string> &commands)
+void findBlueBase(Map &gameMap, vector<Fighter> &fighters, vector<Base *> &fuelBlueBases, vector<Base *> &missileBlueBases, vector<Base *> &redBases, map<Fighter *, Base *> &fighterTargets, vector<string> &commands)
 {
     for (auto &fighter : fighters)
     {
         bool needMissiles = fighter.getCurrentMissiles() == 0;
+        bool needFuel = false;
         bool isAtBase = false;
 
         // Create a set to hold the unique bases
-        set<Base*> togetherBaseSet;
+        set<Base *> togetherBaseSet;
         togetherBaseSet.insert(missileBlueBases.begin(), missileBlueBases.end());
         togetherBaseSet.insert(fuelBlueBases.begin(), fuelBlueBases.end());
 
@@ -151,44 +183,66 @@ void findBlueBase(Map &gameMap, vector<Fighter> &fighters, vector<Base*>& fuelBl
                 break;
             }
         }
+        // Check if the fighter is in a fuel base but needs missiles
+
+        auto orderedMissileBases = orderBaseDistance(fighter, missileBlueBases);
+        if (needMissiles)
+        {
+#ifdef DEBUG
+            printDebugMessage("Fighter " + to_string(fighter.getId()) + " needs missiles");
+#endif
+            for (auto &base : orderedMissileBases)
+            {
+                if (base->getMissileReserve() > 0 && calculateDistanceBFS(fighter.getLocation(), base->getLocation(), redBases, gameMap.getRows(), gameMap.getCols()) > 0)
+                {
+#ifdef DEBUG
+                    printDebugMessage("Fighter " + to_string(fighter.getId()) + " will be reloading at (" + to_string(base->getLocation().first) + ", " + to_string(base->getLocation().second) + ")");
+#endif
+                    fighterTargets[&fighter] = base;
+                    break;
+                }
+            }
+        }
+
+        // Check if the fighter is in a missile base but needs fuel
+        auto orderedFuelBases = orderBaseDistance(fighter, fuelBlueBases);
+        int orderedFuelBasesSize = orderedFuelBases.size();
+
+        int checkBase = orderedFuelBasesSize <= 2 ? 0 : 2;
+        int roughDistanceToNearestBase = orderedFuelBases[checkBase] ? calculateDistanceL1(fighter.getLocation(), orderedFuelBases[checkBase]->getLocation()) : INT_MAX;
+        if (fighter.getCurrentFuel() < roughDistanceToNearestBase + 10) // fuel is short
+            needFuel = true;
+
+        if (needFuel && isAtBase)
+        {
+            for (auto &base : orderedFuelBases)
+            {
+                if (base->getFuelReserve() > 0 && calculateDistanceBFS(fighter.getLocation(), base->getLocation(), redBases, gameMap.getRows(), gameMap.getCols()) > 0)
+                {
+#ifdef DEBUG
+                    printDebugMessage("Fighter " + to_string(fighter.getId()) + " will be refueling at (" + to_string(base->getLocation().first) + ", " + to_string(base->getLocation().second) + ")");
+#endif
+                    fighterTargets[&fighter] = base;
+                    break;
+                }
+            }
+        }
 
         if (!isAtBase)
         {
-            // Order blue bases by distance from the fighter
-            auto orderedMissileBases = orderBaseDistance(fighter, missileBlueBases, redBases, gameMap.getRows(), gameMap.getCols());
-            // Match the fighter with the nearest base with at least some missiles
-            if (needMissiles) {
-                for (auto &base : orderedMissileBases)
-                {
-                    if (base->getMissileReserve() > 0)
-                    {
-                        fighterTargets[&fighter] = base;
-                        break;
-                    }
-                }
-                break;
-            }
-            // Order blue bases by distance from the fighter
-            auto orderedFuelBases = orderBaseDistance(fighter, fuelBlueBases, redBases, gameMap.getRows(), gameMap.getCols());
             // Match the fighter with the nearest base with at least some fuel
 
-            // Check if there are more than 3 fuel bases
-            int checkBase = orderedFuelBases[2] ? 2:0;
-
-            int roughDistanceToNearestBase = orderedFuelBases[checkBase] ? calculateDistanceL1(fighter.getLocation(), orderedFuelBases[checkBase]->getLocation()) : INT_MAX;
-            if (fighter.getCurrentFuel() < roughDistanceToNearestBase + 10) // fuel is short
+            if (needFuel) // fuel is short
             {
                 for (auto &base : orderedFuelBases)
                 {
                     if (base->getFuelReserve() > 0)
                     {
-                        // Check the condition for refuel: remaining fuel is not more than what it needs to reach the nearest blue base
-                        int distanceToNearestBase = base ? calculateDistanceBFS(fighter.getLocation(), base->getLocation(), redBases, gameMap.getRows(), gameMap.getCols()) : INT_MAX;
-                        if (fighter.getCurrentFuel() <= distanceToNearestBase + 1)
-                        {
-                            fighterTargets[&fighter] = base;
-                            break;
-                        }
+#ifdef DEBUG
+                        printDebugMessage("Fighter " + to_string(fighter.getId()) + " will be refueling at (" + to_string(base->getLocation().first) + ", " + to_string(base->getLocation().second) + ")");
+#endif
+                        fighterTargets[&fighter] = base;
+                        break;
                     }
                 }
             }
@@ -197,8 +251,10 @@ void findBlueBase(Map &gameMap, vector<Fighter> &fighters, vector<Base*>& fuelBl
             auto nearestBase = orderedFuelBases.size() > 0 ? orderedFuelBases[0] : nullptr;
             if (calculateDistanceL1(fighter.getLocation(), nearestBase->getLocation()) == 1 && fighter.getCurrentFuel() < 10 && nearestBase->getFuelReserve() > 0)
             {
+#ifdef DEBUG
+                printDebugMessage("Fighter " + to_string(fighter.getId()) + " will be refueling at (" + to_string(nearestBase->getLocation().first) + ", " + to_string(nearestBase->getLocation().second) + ")");
+#endif
                 fighterTargets[&fighter] = nearestBase;
-                break;
             }
         }
     }
@@ -213,21 +269,20 @@ void findRedBase(Map &gameMap, vector<Fighter> &fighters, vector<Base *> &redBas
         // Check if the fighter's target is a blue base
         if (fighterTargets[&fighter] != nullptr && fighterTargets[&fighter]->getTeam() == "blue")
         {
-            #ifdef DEBUG
-            cout << "Fighter " << fighter.getId() << " is returning to blue base" << endl;
-            #endif
+#ifdef DEBUG
+            printDebugMessage("Fighter " + to_string(fighter.getId()) + " is returning to blue base at (" + to_string(fighterTargets[&fighter]->getLocation().first) + ", " + to_string(fighterTargets[&fighter]->getLocation().second) + ")");
+#endif
             continue; // Skip if the fighter is returning to a blue base
         }
 
         // Check if the fighter has missile to attack a red base
         if (fighter.getCurrentMissiles() == 0)
         {
-            #ifdef DEBUG
-            cout << "Fighter " << fighter.getId() << " has no missiles" << endl;
-            #endif
+#ifdef DEBUG
+            printDebugMessage("Fighter " + to_string(fighter.getId()) + " has no missiles");
+#endif
             continue; // Skip if the fighter has no missiles
         }
-
 
         // Check if the fighter is already next to a red base
         for (auto &base : redBases)
@@ -277,11 +332,11 @@ void findRedBase(Map &gameMap, vector<Fighter> &fighters, vector<Base *> &redBas
         if (!isNextToRedBase && fighterTargets[&fighter] == nullptr)
         {
             // If the fighter is not next to a red base and does not have a target
-            auto orderedRedBases = orderBaseDistance(fighter, redBases, redBases, gameMap.getRows(), gameMap.getCols());
+            auto orderedRedBases = orderBaseDistance(fighter, redBases);
 
             for (auto &redBase : orderedRedBases)
             {
-                if (redBase->isActive())
+                if (redBase->isActive() && calculateDistanceBFS(fighter.getLocation(), redBase->getLocation(), redBases, gameMap.getRows(), gameMap.getCols()) > 0)
                 {
                     fighterTargets[&fighter] = redBase;
                     break;
@@ -354,11 +409,11 @@ string moveTowardsTargetDumb(Fighter &fighter, const pair<int, int> &target, con
     // Primary direction based on the target's location
     if (abs(currentLocation.first - target.first) > abs(currentLocation.second - target.second)) // Move vertically first
     {
-        #ifdef DEBUG
-        cout << "Moving vertically first" << endl;
-        cout << "Current Location: (" << currentLocation.first << ", " << currentLocation.second << ")" << endl;
-        cout << "Target Location: (" << target.first << ", " << target.second << ")" << endl;
-        #endif
+#ifdef DEBUG
+        printDebugMessage("Moving vertically first");
+        printDebugMessage("Current Location: (" + to_string(currentLocation.first) + ", " + to_string(currentLocation.second) + ")");
+        printDebugMessage("Target Location: (" + to_string(target.first) + ", " + to_string(target.second) + ")");
+#endif
         if (currentLocation.first > target.first)
         {
             nextLocation = directions[0].second;
@@ -428,11 +483,11 @@ string moveTowardsTargetDumb(Fighter &fighter, const pair<int, int> &target, con
     }
     else // Move horizontally first
     {
-        #ifdef DEBUG
-        cout << "Moving horizontally first" << endl;
-        cout << "Current Location: (" << currentLocation.first << ", " << currentLocation.second << ")" << endl;
-        cout << "Target Location: (" << target.first << ", " << target.second << ")" << endl;
-        #endif
+#ifdef DEBUG
+        printDebugMessage("Moving horizontally first");
+        printDebugMessage("Current Location: (" + to_string(currentLocation.first) + ", " + to_string(currentLocation.second) + ")");
+        printDebugMessage("Target Location: (" + to_string(target.first) + ", " + to_string(target.second) + ")");
+#endif
         if (currentLocation.second > target.second)
         {
             nextLocation = directions[2].second;
@@ -506,19 +561,29 @@ string moveTowardsTargetDumb(Fighter &fighter, const pair<int, int> &target, con
 string moveTowardsTarget(Fighter &fighter, const pair<int, int> &target, const vector<Base *> &redBases, int numRows, int numCols)
 {
     auto currentLocation = fighter.getLocation();
-    if (currentLocation == target) return "";
+    if (currentLocation == target)
+        return "";
 
     // Check if the next location is an active red base
-    auto isActiveRedBase = [&](const std::pair<int, int>& loc) {
-        for (const auto& base : redBases) {
-            if (base->isActive() && base->getLocation() == loc) {
+    auto isActiveRedBase = [&](const std::pair<int, int> &loc)
+    {
+        for (const auto &base : redBases)
+        {
+            if (base->isActive() && base->getLocation() == loc)
+            {
                 return true;
             }
         }
         return false;
     };
+#ifdef DEBUG
+    // printDebugMessage("");
+    printDebugMessage("Current Location: (" + to_string(currentLocation.first) + ", " + to_string(currentLocation.second) + ")");
+    printDebugMessage("Target Location: (" + to_string(target.first) + ", " + to_string(target.second) + ")");
+#endif
 
-    if (calculateDistanceL1(currentLocation, target) <= 2) {
+    if (calculateDistanceL1(currentLocation, target) <= 2)
+    {
         return moveTowardsTargetDumb(fighter, target, redBases, numRows, numCols);
     }
 
@@ -528,51 +593,62 @@ string moveTowardsTarget(Fighter &fighter, const pair<int, int> &target, const v
     parent[currentLocation] = currentLocation; // Mark the start node with itself
 
     std::vector<std::pair<int, int>> directions = {
-        { -1, 0 }, // Up
-        { 1, 0 },  // Down
-        { 0, -1 }, // Left
-        { 0, 1 }   // Right
+        {-1, 0}, // Up
+        {1, 0},  // Down
+        {0, -1}, // Left
+        {0, 1}   // Right
     };
 
-    while (!q.empty()) {
+    while (!q.empty())
+    {
         auto current = q.front();
         q.pop();
 
-        for (const auto& dir : directions) {
-            std::pair<int, int> next = { current.first + dir.first, current.second + dir.second };
+        for (const auto &dir : directions)
+        {
+            std::pair<int, int> next = {current.first + dir.first, current.second + dir.second};
 
-            if (next == target) {
+            if (next == target)
+            {
                 // Trace back to find the first step
-                while (parent[current] != currentLocation) {
+                while (parent[current] != currentLocation)
+                {
                     current = parent[current];
                 }
                 // Determine the move direction
-                if (current.first < currentLocation.first) {
+                if (current.first < currentLocation.first)
+                {
                     fighter.moveUp();
                     return "move " + std::to_string(fighter.getId()) + " 0"; // Up
-                } else if (current.first > currentLocation.first) {
+                }
+                else if (current.first > currentLocation.first)
+                {
                     fighter.moveDown();
                     return "move " + std::to_string(fighter.getId()) + " 1"; // Down
-                } else if (current.second < currentLocation.second) {
+                }
+                else if (current.second < currentLocation.second)
+                {
                     fighter.moveLeft();
                     return "move " + std::to_string(fighter.getId()) + " 2"; // Left
-                } else if (current.second > currentLocation.second) {
+                }
+                else if (current.second > currentLocation.second)
+                {
                     fighter.moveRight();
                     return "move " + std::to_string(fighter.getId()) + " 3"; // Right
                 }
             }
 
-            if (isWithinBounds(next, numRows, numCols) && !isActiveRedBase(next) && parent.find(next) == parent.end()) {
+            if (isWithinBounds(next, numRows, numCols) && !isActiveRedBase(next) && parent.find(next) == parent.end())
+            {
                 parent[next] = current;
                 q.push(next);
             }
         }
     }
 
-    return ""; 
+    return "";
     // No valid move if all possible moves are blocked by active red bases or out of bounds
 }
-
 
 void generateMoveCommands(const Map &gameMap, const map<Fighter *, Base *> &fighterTargets, vector<string> &commands, vector<Base *> &redBases)
 {

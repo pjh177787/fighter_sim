@@ -1,2013 +1,308 @@
-fuel 0 207
-fuel 1 75
-fuel 2 100
-fuel 3 100
-fuel 4 136
-fuel 5 32
-fuel 6 254
-fuel 7 112
-fuel 8 78
-fuel 9 263
+Total fuel: 560
+Total missile: 88
+Total military value: 110
+Total hit points: 10
+
+Frame: 0
+Fighter 0 needs missiles
+Fighter 0 will be reloading at (3, 7)
+Fighter 1 needs missiles
+Fighter 1 will be reloading at (3, 7)
+Fighter 2 needs missiles
+Fighter 2 will be reloading at (3, 7)
+Fighter 0 is returning to blue base at (3, 7)
+Fighter 1 is returning to blue base at (3, 7)
+Fighter 2 is returning to blue base at (3, 7)
+Current Location: (0, 6)
+Target Location: (3, 7)
+Current Location: (4, 7)
+Target Location: (3, 7)
+Moving vertically first
+Current Location: (4, 7)
+Target Location: (3, 7)
+Current Location: (4, 8)
+Target Location: (3, 7)
+Moving horizontally first
+Current Location: (4, 8)
+Target Location: (3, 7)
+fuel 0 100
+missile 0 20
+fuel 1 120
+missile 1 18
+fuel 2 90
+missile 2 10
 move 0 1
-move 1 1
-move 2 1
-move 3 0
-move 4 1
-move 5 0
-move 6 1
-move 8 2
-move 9 3
-OK
-fuel 1 1
-missile 4 81
-move 0 1
-move 1 1
-move 2 1
-move 3 0
-move 4 0
-move 5 3
-move 6 1
-move 8 2
-move 9 0
-OK
-fuel 4 2
-fuel 9 49
-move 0 1
-move 1 1
-move 2 3
-move 3 0
-move 4 2
-move 5 3
-move 6 2
-move 8 1
-move 9 0
-OK
-attack 4 0 3
-move 0 1
-move 1 2
-move 2 3
-move 3 2
-move 5 3
-move 6 2
-move 8 2
-move 9 3
-OK
-missile 2 5
-move 0 2
-move 1 2
-move 2 1
-move 3 2
-move 4 2
-move 5 3
-move 6 2
-move 8 2
-move 9 3
-OK
-missile 3 740
-attack 4 0 4
-move 0 2
-move 1 2
-move 2 1
-move 3 1
-move 5 1
-move 6 2
-move 8 2
-move 9 0
-OK
-move 0 0
-move 1 2
-move 2 1
-move 3 2
-move 4 2
-move 5 3
-move 6 2
-move 8 2
-move 9 0
-OK
-missile 6 94
-attack 3 1 4
-attack 4 0 8
-move 0 2
-move 1 2
+move 1 0
 move 2 2
-move 5 1
-move 6 1
-move 8 2
-move 9 0
 OK
-missile 1 67
-attack 2 1 1
-attack 4 2 3
-move 0 2
-move 1 1
-move 3 2
-move 5 1
-move 6 0
-move 8 0
-move 9 0
-OK
-attack 3 1 7
+
+Frame: 1
+Current Location: (1, 6)
+Target Location: (1, 2)
+Current Location: (3, 7)
+Target Location: (2, 2)
+Current Location: (4, 7)
+Target Location: (5, 3)
+fuel 1 100
+missile 1 15
 move 0 2
 move 1 0
 move 2 1
-move 4 2
-move 5 1
-move 6 0
-move 8 0
-move 9 3
 OK
+
+Frame: 2
+Current Location: (1, 5)
+Target Location: (1, 2)
+Current Location: (2, 7)
+Target Location: (2, 2)
+Current Location: (5, 7)
+Target Location: (5, 3)
+move 0 2
+move 1 2
+move 2 2
+OK
+
+Frame: 3
+Current Location: (1, 4)
+Target Location: (1, 2)
+Moving horizontally first
+Current Location: (1, 4)
+Target Location: (1, 2)
+Current Location: (2, 6)
+Target Location: (2, 2)
+Current Location: (5, 6)
+Target Location: (5, 3)
+move 0 2
+move 1 2
+move 2 2
+OK
+
+Frame: 4
+Current Location: (2, 5)
+Target Location: (2, 2)
+Current Location: (5, 5)
+Target Location: (5, 3)
+Moving horizontally first
+Current Location: (5, 5)
+Target Location: (5, 3)
+attack 0 2 1
+move 1 2
+move 2 2
+OK
+
+Frame: 5
+Current Location: (1, 3)
+Target Location: (2, 2)
+Moving horizontally first
+Current Location: (1, 3)
+Target Location: (2, 2)
+Current Location: (2, 4)
+Target Location: (2, 2)
+Moving horizontally first
+Current Location: (2, 4)
+Target Location: (2, 2)
 attack 2 2 3
-attack 4 0 8
-attack 6 0 3
-move 0 2
-move 1 0
-move 3 2
-move 5 3
-move 8 2
-move 9 3
-OK
-attack 2 1 1
-attack 3 1 2
 move 0 2
 move 1 2
-move 4 0
-move 5 3
-move 6 2
-move 8 2
-move 9 3
 OK
-missile 9 819
-attack 4 0 6
-move 0 2
+
+Frame: 6
+Current Location: (2, 3)
+Target Location: (2, 2)
+Moving horizontally first
+Current Location: (2, 3)
+Target Location: (2, 2)
+Current Location: (5, 4)
+Target Location: (2, 1)
+attack 0 1 4
 move 1 2
 move 2 0
-move 3 0
-move 5 3
-move 6 2
-move 8 2
-move 9 3
 OK
-fuel 5 293
-missile 5 459
+
+Frame: 7
+Current Location: (1, 2)
+Target Location: (2, 1)
+Moving horizontally first
+Current Location: (1, 2)
+Target Location: (2, 1)
+Current Location: (4, 4)
+Target Location: (2, 1)
 attack 1 2 2
-attack 6 1 8
 move 0 2
 move 2 0
-move 3 2
-move 4 0
-move 5 1
-move 8 2
-move 9 1
-OK
-missile 2 247
-attack 3 2 3
-move 0 2
-move 1 2
-move 2 0
-move 4 0
-move 5 2
-move 6 2
-move 8 1
-move 9 2
-OK
-missile 0 278
-attack 1 0 9
-attack 4 0 9
-attack 6 1 1
-attack 9 2 5
-move 0 1
-move 2 0
-move 3 1
-move 5 2
-move 8 2
-OK
-attack 1 2 4
-attack 4 2 1
-attack 5 2 9
-move 0 0
-move 2 2
-move 3 2
-move 6 0
-move 8 2
-move 9 1
-OK
-missile 8 613
-attack 6 0 10
-attack 9 2 1
-move 0 0
-move 1 0
-move 2 2
-move 3 2
-move 4 0
-move 5 2
-move 8 1
-OK
-attack 2 2 10
-attack 3 2 4
-attack 4 0 8
-attack 5 2 3
-attack 9 1 1
-move 0 0
-move 1 0
-move 6 0
-move 8 3
-OK
-attack 4 3 9
-attack 8 3 1
-move 0 3
-move 1 3
-move 2 2
-move 3 2
-move 5 2
-move 6 3
-move 9 2
-OK
-attack 1 3 9
-attack 2 0 6
-attack 3 2 2
-attack 5 0 8
-attack 8 1 2
-attack 9 1 4
-move 0 3
-move 4 0
-move 6 3
-OK
-attack 0 3 2
-attack 5 1 1
-move 1 3
-move 2 1
-move 3 2
-move 4 2
-move 6 3
-move 8 3
-move 9 2
-OK
-attack 3 0 10
-attack 5 2 8
-attack 6 3 2
-attack 8 1 1
-attack 9 1 6
-move 0 1
-move 1 3
-move 2 1
-move 4 2
-OK
-attack 3 1 7
-attack 4 2 10
-move 0 3
-move 1 3
-move 2 1
-move 5 0
-move 6 3
-move 8 3
-move 9 1
-OK
-attack 1 0 8
-attack 2 1 3
-attack 5 0 9
-attack 6 3 9
-attack 8 0 2
-move 0 3
-move 3 2
-move 4 2
-move 9 2
-OK
-attack 0 3 1
-attack 3 0 9
-attack 4 2 4
-attack 5 2 9
-attack 8 1 1
-attack 9 2 8
-move 1 3
-move 2 3
-move 6 3
-move 7 0
-OK
-attack 1 1 9
-attack 2 1 4
-attack 3 1 5
-move 0 3
-move 4 2
-move 5 0
-move 6 1
-move 7 0
-move 8 3
-move 9 2
-OK
-attack 3 2 6
-attack 4 2 5
-attack 5 0 5
-attack 6 3 7
-attack 8 1 1
-attack 9 2 8
-move 0 3
-move 1 3
-move 2 1
-move 7 2
-OK
-attack 0 3 1
-move 1 0
-move 2 3
-move 3 2
-move 4 1
-move 5 2
-move 6 0
-move 7 0
-move 8 0
-move 9 2
-OK
-attack 2 1 9
-attack 3 2 2
-attack 5 0 8
-attack 9 0 5
-move 0 0
-move 1 0
-move 4 1
-move 6 0
-move 7 0
-move 8 3
-OK
-attack 4 1 1
-attack 5 2 6
-attack 9 2 2
-move 0 0
-move 1 0
-move 2 3
-move 3 2
-move 6 3
-move 7 0
-move 8 3
-OK
-fuel 0 28
-attack 2 1 3
-attack 3 1 4
-attack 8 3 10
-move 0 0
-move 1 3
-move 4 3
-move 5 2
-move 6 3
-move 7 0
-move 9 2
-OK
-attack 1 3 4
-attack 4 1 1
-attack 5 1 5
-attack 9 0 7
-move 0 3
-move 2 1
-move 3 1
-move 6 3
-move 7 3
-move 8 3
-OK
-attack 0 3 1
-attack 2 1 3
-attack 8 0 2
-move 1 3
-move 3 1
-move 4 1
-move 5 1
-move 6 3
-move 7 3
-move 9 1
-OK
-missile 7 275
-attack 1 3 3
-attack 5 1 1
-attack 6 0 9
-move 0 3
-move 2 1
-move 3 1
-move 4 1
-move 7 1
-move 8 0
-move 9 1
-OK
-attack 0 0 1
-attack 2 1 4
-attack 6 3 7
-attack 8 0 3
-move 1 0
-move 3 1
-move 4 1
-move 5 2
-move 7 0
-move 9 3
-OK
-fuel 9 24
-attack 1 0 5
-attack 5 1 8
-attack 8 3 1
-move 0 3
-move 2 1
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 9 3
-OK
-attack 0 0 7
-attack 6 0 9
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-move 5 0
-move 7 0
-move 8 1
-move 9 3
-OK
-attack 1 0 2
-attack 2 1 3
-attack 4 1 1
-attack 5 0 5
-attack 6 3 3
-move 0 3
-move 3 1
-move 7 0
-move 8 3
-move 9 3
-OK
-attack 0 0 1
-attack 3 1 4
-attack 8 3 3
-move 1 3
-move 2 3
-move 4 0
-move 5 1
-move 6 1
-move 7 0
-move 9 3
-OK
-attack 0 3 7
-attack 1 0 6
-attack 2 1 6
-attack 7 0 7
-attack 9 3 4
-move 3 3
-move 4 0
-move 5 2
-move 6 3
-move 8 0
-OK
-attack 3 3 2
-attack 5 1 10
-attack 6 3 5
-move 0 0
-move 1 0
-move 2 3
-move 4 0
-move 7 0
-move 8 0
-move 9 3
-OK
-attack 0 0 8
-attack 1 3 6
-attack 2 1 4
-attack 3 1 1
-attack 9 3 4
-move 4 0
-move 5 1
-move 6 0
-move 7 0
-move 8 3
-OK
-attack 5 1 5
-attack 8 3 9
-move 0 2
-move 1 1
-move 2 3
-move 3 3
-move 4 0
-move 6 3
-move 7 0
-move 9 3
-OK
-attack 0 0 10
-attack 2 1 6
-attack 3 3 3
-attack 6 0 5
-attack 9 3 5
-move 1 1
-move 4 0
-move 5 2
-move 7 0
-move 8 3
-OK
-attack 3 1 5
-attack 5 1 10
-attack 8 0 3
-move 0 0
-move 1 2
-move 2 1
-move 4 2
-move 6 3
-move 7 0
-move 9 3
-OK
-attack 0 0 5
-attack 5 2 10
-attack 6 0 5
-attack 8 3 8
-attack 9 3 6
-move 1 2
-move 2 3
-move 3 3
-move 4 2
-move 7 0
-OK
-attack 3 3 10
-move 0 3
-move 1 2
-move 2 3
-move 4 2
-move 5 2
-move 6 3
-move 7 0
-move 8 0
-move 9 1
-OK
-attack 0 3 9
-attack 3 1 2
-attack 5 2 9
-attack 6 0 6
-attack 9 1 1
-move 1 2
-move 2 3
-move 4 2
-move 7 0
-move 8 3
-OK
-attack 8 0 9
-move 0 3
-move 1 2
-move 2 3
-move 3 1
-move 4 2
-move 5 2
-move 6 0
-move 7 3
-move 9 2
-OK
-attack 0 3 4
-attack 2 3 8
-attack 5 1 3
-attack 6 0 4
-attack 7 0 3
-attack 9 1 7
-move 1 2
-move 3 3
-move 4 2
-move 8 0
-OK
-attack 3 3 1
-attack 5 2 4
-attack 8 0 10
-move 0 3
-move 1 2
-move 2 3
-move 4 2
-move 6 0
-move 7 0
-move 9 1
-OK
-missile 4 171
-attack 0 1 4
-attack 2 1 6
-attack 5 0 8
-attack 6 0 1
-attack 9 1 1
-move 1 2
-move 3 1
-move 4 1
-move 7 2
-move 8 0
-OK
-missile 1 117
-attack 0 0 9
-move 1 0
-move 2 0
-move 3 2
-move 4 1
-move 5 1
-move 6 0
-move 7 2
-move 8 3
-move 9 3
-OK
-attack 3 2 6
-attack 5 1 8
-attack 8 0 10
-attack 9 3 5
-move 0 3
-move 1 2
-move 2 3
-move 4 2
-move 6 0
-move 7 2
-OK
-attack 0 1 1
-attack 2 3 1
-attack 4 1 2
-attack 7 2 1
-move 1 2
-move 3 1
-move 5 2
-move 6 2
-move 8 3
-move 9 3
-OK
-attack 3 2 5
-attack 5 1 9
-attack 8 0 6
-attack 9 1 9
-move 0 1
-move 1 0
-move 2 1
-move 4 1
-move 6 2
-move 7 0
-OK
-fuel 7 305
-attack 0 1 5
-attack 3 1 4
-move 1 0
-move 2 1
-move 4 1
-move 5 2
-move 6 2
-move 7 0
-move 8 0
-move 9 1
-OK
-attack 2 3 7
-attack 4 1 4
-attack 5 1 10
-attack 8 0 3
-attack 9 3 10
-move 0 1
-move 1 0
-move 3 2
-move 6 0
-move 7 0
-OK
-attack 2 1 4
-attack 3 2 3
-attack 9 1 3
-move 0 3
-move 1 0
-move 4 3
-move 5 1
-move 6 0
-move 7 0
-move 8 2
-OK
-attack 0 1 10
-attack 4 1 9
-attack 5 2 5
-attack 8 0 4
-move 1 3
-move 2 3
-move 3 2
-move 6 0
-move 7 2
-move 9 2
-OK
-attack 1 0 1
-attack 3 0 9
-attack 5 1 4
-attack 7 0 7
-attack 9 1 10
-move 0 1
-move 2 3
-move 4 1
-move 6 0
-move 8 0
-OK
-attack 0 3 9
-attack 2 3 10
-attack 3 1 10
-attack 4 1 2
-attack 8 0 2
-move 1 3
-move 5 3
-move 6 0
-move 7 0
-move 9 1
-OK
-attack 0 1 2
-attack 3 2 9
-attack 5 1 8
-attack 7 0 10
-attack 9 1 10
-move 1 3
-move 2 3
-move 4 3
-move 6 0
-move 8 0
-OK
-attack 1 3 7
-attack 2 0 3
-attack 4 1 6
-move 0 3
-move 3 2
-move 5 1
-move 6 0
-move 7 0
-move 8 0
-move 9 3
-OK
-attack 0 3 2
-attack 2 1 2
-attack 7 0 2
-attack 9 3 4
-move 1 3
-move 3 2
-move 4 1
-move 5 1
-move 6 0
-move 8 2
-OK
-attack 0 1 3
-attack 1 3 2
-attack 3 2 9
-attack 4 1 1
-attack 5 1 3
-attack 8 0 7
-move 2 1
-move 6 0
-move 7 0
-move 9 3
-OK
-attack 1 1 8
-attack 3 1 3
-attack 9 3 9
-move 0 1
-move 2 1
-move 4 3
-move 5 2
-move 6 0
-move 7 3
-move 8 0
-OK
-attack 4 1 5
-attack 5 1 5
-attack 8 0 3
-move 0 2
-move 1 0
-move 2 2
-move 3 3
-move 6 3
-move 7 3
-move 9 3
-OK
-attack 0 2 3
-attack 2 2 6
-attack 4 3 4
-attack 9 3 1
-move 1 0
-move 3 3
-move 5 1
-move 6 0
-move 7 3
-move 8 2
-OK
-missile 6 94
-attack 8 0 10
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 3
-move 6 0
-move 7 3
-move 9 1
-OK
-attack 0 2 2
-attack 1 0 1
-attack 4 1 4
-attack 5 1 1
-attack 7 3 5
-attack 8 2 5
-attack 9 1 9
-move 2 3
-move 3 3
-move 6 1
-OK
-missile 6 0
-attack 0 1 2
-move 1 0
-move 2 3
-move 3 3
-move 4 3
-move 5 1
-move 6 1
-move 7 0
-move 8 0
-move 9 1
-OK
-attack 4 3 4
-attack 8 0 1
-attack 9 1 5
-move 0 3
-move 1 3
-move 2 3
-move 3 3
-move 5 2
-move 6 1
-move 7 3
-OK
-attack 0 1 4
-attack 3 3 3
-attack 5 2 1
-attack 7 3 5
-attack 8 2 4
-move 1 0
-move 2 3
-move 4 3
-move 6 1
-move 9 2
-OK
-attack 0 3 3
-attack 2 3 4
-attack 3 1 8
-attack 4 1 2
-attack 6 1 4
-move 1 0
-move 5 2
-move 7 3
-move 8 2
-move 9 2
-OK
-attack 5 1 3
-attack 7 0 9
-attack 8 0 3
-move 0 3
-move 1 0
-move 2 0
-move 3 3
-move 4 3
-move 6 1
-move 9 2
-OK
-fuel 1 59
-attack 0 1 8
-attack 3 3 4
-attack 4 0 1
-attack 9 2 2
-move 1 0
-move 2 3
-move 5 1
-move 6 1
-move 7 0
-move 8 2
-OK
-attack 2 3 9
-attack 3 1 9
-attack 4 1 8
-attack 5 1 4
-attack 8 0 1
-move 0 3
-move 1 0
-move 6 3
-move 7 0
-move 9 2
-OK
-attack 0 1 10
-attack 8 2 10
-attack 9 2 3
-move 1 2
-move 2 3
-move 3 3
-move 4 3
-move 5 1
-move 6 3
-move 7 0
-OK
-attack 0 0 9
-attack 2 3 10
-attack 3 0 7
-attack 4 3 7
-attack 5 2 8
-move 1 2
-move 6 3
-move 7 0
-move 8 2
-move 9 2
-OK
-attack 3 3 7
-attack 9 0 8
-move 0 3
-move 1 2
-move 2 0
-move 4 3
-move 5 2
-move 6 3
-move 7 2
-move 8 2
-OK
-attack 0 1 9
-attack 2 0 8
-attack 4 3 7
-attack 5 2 9
-attack 6 3 8
-move 1 2
-move 3 3
-move 7 2
-move 8 2
-move 9 1
-OK
-attack 0 3 9
-attack 1 2 9
-attack 2 3 3
-attack 3 3 1
-move 4 3
-move 5 1
-move 6 3
-move 7 2
-move 8 1
-move 9 1
-OK
-attack 4 1 1
-attack 6 3 4
-move 0 1
-move 1 2
-move 2 3
-move 3 1
-move 5 2
-move 7 2
-move 8 1
-move 9 3
-OK
-attack 0 1 8
-attack 1 0 9
-attack 2 0 5
-attack 3 3 3
-attack 5 2 6
-move 4 3
-move 6 3
-move 7 0
-move 8 3
-move 9 3
-OK
-attack 2 3 8
-attack 3 1 4
-attack 4 1 3
-attack 6 1 9
-attack 9 3 7
-move 0 3
-move 1 1
-move 5 0
-move 7 1
-move 8 3
-OK
-attack 0 3 3
-move 1 1
-move 2 3
-move 3 1
-move 4 1
-move 5 2
-move 6 1
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 2 3 8
-attack 3 1 6
-attack 4 1 6
-attack 5 0 1
-attack 6 1 1
-move 0 0
-move 1 1
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 0 0 2
-move 1 1
-move 2 3
-move 3 3
-move 4 1
-move 5 2
-move 6 1
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 0 3 2
-attack 2 1 6
-attack 3 1 6
-attack 5 2 3
-move 1 1
-move 4 1
-move 6 3
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 6 3 9
-attack 9 1 10
-move 0 1
-move 1 1
-move 2 3
-move 3 1
-move 4 1
-move 5 2
-move 7 1
-move 8 3
-OK
-attack 3 1 2
-attack 4 3 5
-attack 5 0 2
-attack 6 1 6
-move 0 3
-move 1 1
-move 2 3
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 0 1 8
-attack 2 3 4
-attack 4 1 6
-move 1 1
-move 3 2
-move 5 1
-move 6 1
-move 7 1
-move 8 3
-move 9 1
-OK
-fuel 8 58
-attack 5 1 6
-attack 6 1 6
-move 0 3
-move 1 1
-move 2 0
-move 3 2
-move 4 3
-move 7 1
-move 8 3
-move 9 3
-OK
-attack 0 1 9
-attack 3 2 6
-attack 4 3 9
-attack 9 3 2
-move 1 1
-move 2 0
-move 5 1
-move 6 3
-move 7 1
-move 8 3
-OK
-attack 2 0 3
-attack 5 1 3
-attack 6 1 3
-move 0 3
-move 1 1
-move 3 2
-move 4 1
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 2 3 7
-attack 3 2 10
-attack 8 3 1
-move 0 1
-move 1 1
-move 4 3
-move 5 1
-move 6 3
-move 7 1
-move 9 1
-OK
-attack 4 3 6
-attack 6 1 2
-move 0 3
-move 1 1
-move 2 0
-move 3 1
-move 5 3
-move 7 1
-move 8 3
-move 9 1
-OK
-attack 0 1 6
-attack 4 1 4
-attack 8 0 10
-move 1 1
-move 2 2
-move 3 1
-move 5 1
-move 6 3
-move 7 1
-move 9 1
-OK
-attack 2 0 10
-attack 5 3 3
-attack 6 0 10
-move 0 3
-move 1 3
-move 3 3
-move 4 0
-move 7 1
-move 8 0
-move 9 2
-OK
-attack 8 0 7
-move 0 1
-move 1 3
-move 2 2
-move 3 3
-move 4 3
-move 5 2
-move 6 1
-move 7 3
-move 9 2
-OK
-attack 0 1 6
-attack 2 0 2
-attack 4 0 9
-attack 5 1 7
-attack 9 2 10
-move 1 3
-move 3 3
-move 6 2
-move 7 3
-move 8 1
-OK
-attack 3 3 10
-attack 6 1 2
-move 0 3
-move 1 3
-move 2 2
-move 4 1
-move 5 1
-move 7 3
-move 8 3
-move 9 2
-OK
-fuel 1 25
-attack 0 1 6
-attack 5 1 10
-attack 9 2 4
-move 1 0
-move 2 2
-move 3 0
-move 4 1
-move 6 1
-move 7 1
-move 8 3
-OK
-attack 2 0 8
-attack 8 3 8
-move 0 1
-move 1 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 1
-move 9 2
-OK
-attack 2 2 2
-attack 9 2 3
-move 0 1
-move 1 3
-move 3 3
-move 4 3
-move 5 1
-move 6 1
-move 7 1
-move 8 3
-OK
-attack 4 1 5
-attack 6 1 3
-attack 8 3 7
-move 0 1
-move 1 3
-move 2 0
-move 3 3
-move 5 1
-move 7 1
-move 9 2
-OK
-attack 9 1 6
-move 0 2
-move 1 1
-move 2 0
-move 3 0
-move 4 1
-move 5 3
-move 6 3
-move 7 1
-move 8 3
-OK
-attack 0 1 7
-attack 2 0 1
-attack 6 3 8
-attack 8 1 5
-move 1 1
-move 3 3
-move 4 3
-move 5 3
-move 7 1
-move 9 0
-OK
-attack 2 3 8
-attack 4 3 3
-move 0 0
-move 1 1
-move 3 3
-move 5 0
-move 6 3
-move 7 1
-move 8 1
-move 9 2
-OK
-attack 6 3 6
-attack 8 1 9
-move 0 0
-move 1 1
-move 2 0
-move 3 3
-move 4 1
-move 5 0
-move 7 1
-move 9 2
-OK
-attack 2 0 4
-move 0 0
-move 1 1
-move 3 1
-move 4 2
-move 5 0
-move 6 3
-move 7 1
-move 8 1
-move 9 2
-OK
-attack 2 3 4
-attack 4 2 1
-attack 6 3 1
-move 0 2
-move 1 1
-move 3 3
-move 5 0
-move 7 1
-move 8 2
-move 9 2
-OK
-attack 3 3 1
-attack 8 1 10
-move 0 2
-move 1 1
-move 2 3
-move 4 2
-move 5 0
-move 6 3
-move 7 1
-move 9 2
-OK
-attack 2 3 8
-attack 4 2 9
-attack 6 3 9
-attack 9 2 6
-move 0 2
-move 1 1
-move 3 1
-move 5 0
-move 7 1
-move 8 2
-OK
-attack 3 1 6
-attack 8 2 4
-move 0 0
-move 1 1
-move 2 1
-move 4 1
-move 5 0
-move 6 3
-move 7 1
-move 9 2
-OK
-attack 4 2 10
-attack 6 0 1
-attack 9 0 8
-move 0 0
-move 1 3
-move 2 1
-move 3 2
-move 5 0
-move 7 1
-move 8 1
-OK
-attack 3 1 4
-attack 4 1 5
-attack 6 3 2
-attack 8 2 9
-attack 9 2 9
-move 0 0
-move 1 3
-move 2 2
-move 5 0
-move 7 1
-OK
-attack 5 0 9
-attack 8 1 4
-move 0 0
-move 1 3
-move 2 2
-move 3 1
-move 4 2
-move 6 0
-move 7 1
-move 9 2
-OK
-attack 2 2 6
-attack 3 1 3
-attack 4 2 10
-attack 9 2 3
-move 0 0
-move 1 3
-move 5 2
-move 6 3
-move 7 1
-move 8 1
-OK
-attack 4 1 1
-attack 5 0 7
-attack 8 1 3
-move 0 2
-move 1 3
-move 2 2
-move 3 3
-move 6 3
-move 7 1
-move 9 0
-OK
-attack 0 0 10
-attack 2 2 5
-attack 3 3 2
-move 1 3
-move 4 2
-move 5 0
-move 6 1
-move 7 2
-move 8 3
-move 9 2
-OK
-attack 3 1 2
-attack 4 2 1
-attack 7 2 7
-attack 8 1 3
-attack 9 2 9
-move 0 0
-move 1 3
-move 2 2
-move 5 0
-move 6 1
-OK
-attack 2 0 6
-attack 8 3 3
-move 0 0
-move 1 3
-move 3 3
-move 4 2
-move 5 0
-move 6 1
-move 7 2
-move 9 2
-OK
-attack 1 3 6
-attack 3 1 2
-attack 4 0 3
-attack 7 1 8
-attack 9 2 7
-move 0 3
-move 2 3
-move 5 2
-move 6 1
-move 8 1
-OK
-attack 4 2 2
-move 0 0
-move 1 3
-move 2 0
-move 3 3
-move 5 2
-move 6 1
-move 7 1
-move 8 3
-move 9 2
-OK
-attack 0 0 7
-attack 1 3 9
-attack 7 1 4
-attack 8 1 9
-move 2 0
-move 3 3
-move 4 2
-move 5 0
-move 6 3
-move 9 0
-OK
-attack 4 0 6
-attack 5 2 1
-move 0 2
-move 1 1
-move 2 0
-move 3 1
-move 6 3
-move 7 1
-move 8 0
-move 9 0
-OK
-attack 1 1 10
-move 0 0
-move 2 0
-move 3 1
-move 4 1
-move 5 0
-move 6 3
-move 7 2
-move 8 0
-move 9 0
-OK
-attack 7 2 1
-move 0 3
-move 1 1
-move 2 0
-move 3 2
-move 4 3
-move 5 0
-move 6 3
-move 8 0
-move 9 3
-OK
-attack 7 1 4
-attack 9 0 3
-move 0 3
-move 1 3
-move 2 0
-move 3 2
-move 4 3
-move 5 3
-move 6 3
-move 8 0
-OK
-attack 1 3 4
-move 0 3
-move 2 0
-move 3 2
-move 4 3
-move 5 0
-move 6 3
-move 7 1
-move 8 0
-move 9 0
-OK
-attack 5 0 9
-move 0 3
-move 1 1
-move 2 2
-move 3 2
-move 4 3
-move 6 3
-move 7 2
-move 8 0
-move 9 0
-OK
-attack 0 3 5
-attack 7 2 2
-move 1 1
-move 2 2
-move 3 2
-move 4 3
-move 5 0
-move 6 3
-move 8 2
-move 9 3
-OK
-attack 1 2 9
-attack 8 0 9
-attack 9 0 3
-move 0 0
-move 2 2
-move 3 2
-move 4 3
-move 5 3
-move 6 3
-move 7 1
-OK
-attack 1 1 5
-move 0 0
-move 2 2
-move 3 2
-move 4 3
-move 5 0
-move 6 3
-move 7 3
-move 8 0
-move 9 0
-OK
-fuel 2 144
-fuel 3 140
-attack 8 0 8
-move 0 0
-move 1 1
-move 2 1
-move 3 1
-move 4 3
-move 5 0
-move 6 3
-move 7 3
-move 9 0
-OK
-attack 1 1 9
-move 0 0
-move 2 1
-move 3 1
-move 4 3
-move 5 0
-move 6 3
-move 7 3
-move 8 0
-move 9 0
-OK
-attack 7 3 10
-move 0 0
-move 1 1
-move 2 1
-move 3 1
-move 4 3
-move 5 3
-move 6 3
-move 8 3
-move 9 3
-OK
-attack 1 1 3
-attack 8 0 6
-move 0 0
-move 2 1
-move 3 1
-move 4 3
-move 5 3
-move 6 3
-move 7 0
-move 9 3
-OK
-move 0 0
-move 1 2
-move 2 3
-move 3 1
-move 4 3
-move 5 3
-move 6 3
-move 7 3
-move 8 0
-move 9 3
-OK
-missile 6 94
-attack 1 1 7
-move 0 3
-move 2 1
-move 3 1
-move 4 3
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-missile 7 447
-move 0 3
-move 1 1
-move 2 1
-move 3 1
-move 4 3
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-missile 7 262
-move 0 3
-move 1 3
-move 2 1
-move 3 1
-move 4 3
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-attack 1 3 2
-move 0 3
-move 2 1
-move 3 1
-move 4 3
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-move 0 3
-move 1 0
-move 2 1
-move 3 2
-move 4 3
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-missile 4 463
-move 0 3
-move 1 0
-move 2 1
-move 3 2
-move 4 0
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-move 0 3
-move 1 0
-move 2 3
-move 3 2
-move 4 0
-move 5 3
-move 6 3
-move 7 3
-move 8 0
-move 9 3
-OK
-attack 6 3 10
-move 0 3
-move 1 2
-move 2 1
-move 3 2
-move 4 0
-move 5 3
-move 7 3
-move 8 0
-move 9 3
-OK
-missile 2 223
-attack 1 2 10
-move 0 0
-move 2 1
-move 3 2
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 0
-move 9 0
-OK
-attack 3 2 6
-move 0 0
-move 1 2
-move 2 1
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 0
-move 9 0
-OK
-move 0 0
-move 1 2
-move 2 1
-move 3 2
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 0
-move 9 0
-OK
-attack 1 1 1
-move 0 0
-move 2 3
-move 3 1
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 0
-move 9 0
-OK
-attack 6 0 5
-move 0 0
-move 1 1
-move 2 3
-move 3 1
-move 4 0
-move 5 0
-move 7 3
-move 8 0
-move 9 0
-OK
-move 0 0
-move 1 1
-move 2 3
-move 3 1
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 0
-move 9 0
-OK
-attack 6 0 9
-move 0 0
-move 1 1
-move 2 3
-move 3 1
-move 4 0
-move 5 0
-move 7 3
-move 8 0
-move 9 0
-OK
-attack 2 3 6
-move 0 3
-move 1 1
-move 3 1
-move 4 0
-move 5 3
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-move 0 3
-move 1 1
-move 2 3
-move 3 1
-move 4 0
-move 5 3
-move 6 2
-move 7 3
-move 8 0
-move 9 3
-OK
-attack 4 0 2
-attack 5 3 2
-move 0 3
-move 1 1
-move 2 3
-move 3 1
-move 6 0
-move 7 3
-move 8 0
-move 9 3
-OK
-move 0 0
-move 1 1
-move 2 3
-move 3 1
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 0
-move 9 0
-OK
-move 0 0
-move 1 1
-move 2 3
-move 3 1
-move 4 0
-move 5 0
-move 6 0
-move 7 3
-move 8 2
-move 9 0
-OK
-attack 8 0 6
-move 0 0
-move 1 1
-move 2 3
-move 3 3
-move 4 0
-move 5 0
-move 6 3
-move 7 3
-move 9 0
-OK
-fuel 9 34
-attack 5 0 4
-move 0 3
-move 1 3
-move 2 3
-move 3 3
-move 4 0
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 3
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 3
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 1
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-attack 2 3 4
-move 0 1
-move 1 2
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-fuel 8 61
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-fuel 1 60
-fuel 8 326
-missile 8 261
-attack 2 3 8
-move 0 1
-move 1 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-move 5 1
-move 6 1
-move 7 3
-move 8 1
-move 9 1
-OK
-attack 2 1 3
-move 0 1
-move 1 3
-move 3 3
-move 4 1
-move 5 1
-move 6 1
-move 7 1
-move 8 1
-move 9 1
-OK
-attack 7 3 3
-move 0 1
-move 1 3
-move 2 3
-move 3 3
-move 4 3
-move 5 1
-move 6 1
-move 8 1
-move 9 1
-OK
-attack 2 3 4
-move 0 1
-move 1 0
-move 4 3
-move 5 1
-move 6 1
-move 8 1
-move 9 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
 OK
 OK
 OK

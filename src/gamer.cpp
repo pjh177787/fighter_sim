@@ -4,6 +4,8 @@
 #include <sstream>
 #include <map>
 #include <algorithm>
+#include <fstream>
+#include <iomanip>
 
 #include "map.h"
 #include "base.h"
@@ -11,7 +13,7 @@
 #include "utils.h"
 
 #define INT_MAX 2147483647
-#define DEBUG 10 // Set to a frame number to enable debug output for the last 10 frames
+#define DEBUG 15000 // Set to a frame number to enable debug output for the last 10 frames
 
 using namespace std;
 
@@ -24,22 +26,6 @@ string trim(const string &str)
     return str.substr(first, last - first);
 }
 
-#include <fstream>
-#include <iomanip>
-
-void printDebugMessage(const std::string &message)
-{
-    std::ofstream debugFile("debug.txt", std::ios_base::app);
-    if (debugFile.is_open())
-    {
-        debugFile << message << std::endl;
-        debugFile.close();
-    }
-    else
-    {
-        std::cerr << "Failed to open debug file" << std::endl;
-    }
-}
 
 void debugPrint(Map &gameMap, vector<Base *> &fuelBlueBases, vector<Base *> &missileBlueBases, vector<Base *> &resourcefulBlueBases, vector<Base *> &redBases, vector<Fighter> &fighters, map<Fighter *, Base *> &fighterTargets)
 {
@@ -73,7 +59,7 @@ void debugPrint(Map &gameMap, vector<Base *> &fuelBlueBases, vector<Base *> &mis
     for (auto &fighter : fighters)
     {
         auto [x, y] = fighter.getLocation();
-        if (baseMap[x][y] == '*')
+        if (baseMap[x][y] == '*' || baseMap[x][y] == 'F' || baseMap[x][y] == 'M')
             baseMap[x][y] = '@'; // Fighter at blue base
         else
             baseMap[x][y] = '+'; // Fighter not at blue base
@@ -88,7 +74,6 @@ void debugPrint(Map &gameMap, vector<Base *> &fuelBlueBases, vector<Base *> &mis
         ss << setw(4) << setfill('0') << i << "   " << baseMap[i];
         printDebugMessage(ss.str());
     }
-    printDebugMessage("");
 
     // // Print information of all blue bases
     // printDebugMessage("Missile Blue Bases:");
@@ -150,10 +135,13 @@ void debugPrint(Map &gameMap, vector<Base *> &fuelBlueBases, vector<Base *> &mis
     ss << "Remaining Red Bases: " << count_if(redBases.begin(), redBases.end(), [](Base *base)
                                               { return base->isActive(); });
     printDebugMessage(ss.str());
+    printDebugMessage("");
 }
 
 int main()
 {
+
+
 #ifdef DEBUG
     // Clear the debug file
     std::ofstream debugFile("debug.txt");

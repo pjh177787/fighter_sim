@@ -5,7 +5,13 @@ missile 1 18
 fuel 2 90
 missile 2 10
 move 0 1
-move 1 1
+move 1 0
+move 2 2
+OK
+fuel 1 100
+missile 1 15
+move 0 2
+move 1 0
 move 2 1
 OK
 move 0 2
@@ -16,29 +22,22 @@ move 0 2
 move 1 2
 move 2 2
 OK
-move 0 2
+attack 0 2 1
 move 1 2
 move 2 2
 OK
-attack 0 2 1
-attack 1 2 3
-move 2 2
-OK
+attack 2 2 3
 move 0 2
-move 1 0
-move 2 0
+move 1 2
 OK
 attack 0 1 4
-move 1 0
-move 2 0
-OK
-move 0 2
-move 1 0
-move 2 0
-OK
-attack 0 1 2
 move 1 2
-move 2 2
+move 2 0
+OK
+attack 1 2 2
+move 0 2
+move 2 0
+OK
 OK
 OK
 OK
