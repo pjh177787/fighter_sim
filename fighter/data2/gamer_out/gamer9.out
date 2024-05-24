@@ -1,0 +1,18605 @@
+fuel 0 207
+fuel 1 75
+fuel 2 100
+fuel 3 100
+fuel 4 136
+fuel 5 32
+fuel 6 254
+fuel 7 112
+fuel 8 78
+fuel 9 263
+OK
+fuel 0 0
+fuel 1 0
+move 2 1
+OK
+fuel 0 0
+fuel 1 0
+move 2 1
+OK
+fuel 0 0
+fuel 1 0
+move 2 3
+OK
+fuel 0 0
+fuel 1 0
+move 2 3
+OK
+fuel 0 0
+fuel 1 0
+missile 2 5
+move 2 2
+move 3 0
+OK
+fuel 0 0
+fuel 1 0
+move 2 2
+move 3 0
+OK
+fuel 0 0
+fuel 1 0
+move 2 2
+move 3 0
+OK
+fuel 0 0
+fuel 1 0
+attack 2 2 5
+move 3 2
+OK
+fuel 0 0
+fuel 1 0
+move 2 1
+OK
+fuel 0 0
+fuel 1 0
+move 2 1
+OK
+fuel 0 0
+fuel 1 0
+move 2 3
+OK
+fuel 0 0
+fuel 1 0
+move 2 3
+OK
+fuel 0 0
+fuel 1 0
+missile 2 247
+move 2 1
+move 3 2
+OK
+fuel 0 0
+fuel 1 0
+missile 3 740
+fuel 4 0
+attack 2 1 1
+move 3 1
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+move 2 1
+move 3 2
+move 5 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 2 2 3
+attack 3 1 4
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 2 1 4
+move 3 2
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 3 1 7
+move 2 2
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 2 2 4
+move 3 2
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 2 1 9
+attack 3 1 2
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+move 2 2
+move 3 0
+move 5 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 2 2 3
+move 3 2
+move 5 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+attack 3 2 3
+move 2 1
+move 5 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+move 2 1
+move 3 1
+move 5 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 291
+fuel 6 0
+move 2 3
+move 3 2
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 3
+move 3 2
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 2 4
+move 2 3
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 4
+move 3 2
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 2 2
+move 2 1
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 2
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 3
+attack 3 0 10
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 7 275
+attack 3 1 7
+move 2 3
+move 7 0
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 6
+move 3 2
+move 7 0
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 9
+move 2 3
+move 7 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 4
+attack 3 1 5
+move 7 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 2 6
+attack 7 2 5
+move 2 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 6
+move 3 2
+move 7 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 2 2
+attack 7 0 6
+move 2 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 2
+move 7 0
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 4
+move 2 3
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 2
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 2
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 8
+move 3 2
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 7
+move 2 3
+move 3 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 6
+move 3 2
+move 7 0
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 1
+move 2 1
+move 3 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 4
+move 2 3
+move 3 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 7
+attack 3 2 9
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 8 613
+attack 2 1 4
+attack 7 0 2
+move 3 2
+move 8 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 9 81
+attack 3 1 9
+attack 7 3 8
+move 2 1
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 9 49
+attack 8 2 6
+move 2 3
+move 3 1
+move 7 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 6
+attack 7 0 9
+attack 9 0 3
+move 3 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 8
+move 2 3
+move 3 1
+move 7 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 2
+attack 7 0 10
+attack 9 0 4
+move 3 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 8
+move 2 3
+move 3 1
+move 7 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 10
+attack 8 2 10
+attack 9 0 8
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 9
+attack 9 2 3
+move 2 0
+move 3 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 3
+attack 3 2 2
+attack 8 0 3
+move 7 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 9
+attack 9 0 8
+move 2 0
+move 3 2
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 10
+attack 7 3 3
+move 2 0
+move 8 0
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 5
+attack 9 0 6
+move 2 2
+move 3 1
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 1
+attack 3 1 7
+move 7 3
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 2
+attack 8 0 8
+move 2 0
+move 3 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 0 9
+move 2 3
+move 3 3
+move 7 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 8
+attack 9 2 1
+move 2 3
+move 3 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 7
+attack 7 3 9
+attack 8 0 2
+move 3 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 3 1
+attack 9 0 8
+move 2 3
+move 7 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 3
+attack 7 1 9
+attack 9 3 9
+move 3 0
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 8
+move 2 3
+move 3 0
+move 7 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 9
+attack 7 1 7
+move 3 3
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 2
+attack 3 3 5
+move 7 0
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 6
+attack 9 2 10
+move 2 3
+move 3 3
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 5
+attack 3 3 1
+move 7 0
+move 8 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 4
+move 2 0
+move 3 3
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 6
+attack 3 0 5
+attack 7 3 4
+move 8 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 5
+attack 9 2 5
+move 2 2
+move 3 0
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 9
+attack 7 3 3
+move 2 0
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 3
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 9
+attack 7 1 9
+attack 9 1 1
+move 3 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 10
+move 2 2
+move 3 1
+move 7 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 1
+attack 7 0 2
+attack 9 1 1
+move 3 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 7
+attack 8 0 10
+move 2 2
+move 7 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 6
+attack 7 0 6
+move 3 3
+move 8 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 2
+move 2 0
+move 7 3
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 6
+attack 8 3 4
+move 2 0
+move 3 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 9
+attack 7 3 10
+move 2 0
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 2
+attack 9 3 1
+move 2 0
+move 3 2
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 8
+attack 7 3 6
+attack 8 3 2
+move 2 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 1
+move 3 1
+move 7 0
+move 8 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 8
+attack 8 3 4
+move 2 2
+move 3 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 3
+move 7 3
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 1
+attack 3 3 3
+attack 7 0 9
+attack 8 3 8
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 3
+move 7 3
+move 8 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 4
+attack 8 0 3
+move 2 2
+move 3 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 3 10
+attack 7 1 1
+attack 8 3 3
+move 2 2
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 2
+attack 3 0 9
+move 7 0
+move 8 2
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 9 819
+attack 7 0 4
+attack 8 0 2
+move 2 0
+move 3 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 3
+attack 9 1 5
+move 2 0
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 1 5
+attack 7 0 7
+attack 8 0 10
+move 2 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 7
+attack 8 2 3
+attack 9 1 1
+move 2 3
+move 3 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 5
+attack 7 2 3
+move 2 3
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 1
+attack 3 3 4
+attack 8 0 9
+attack 9 1 4
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 1
+move 2 3
+move 3 0
+move 8 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 1
+attack 3 0 6
+attack 8 0 2
+attack 9 1 6
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 3
+attack 8 3 9
+move 2 3
+move 3 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 7
+attack 3 0 5
+move 7 3
+move 8 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 2 9
+attack 9 2 5
+move 2 3
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 1
+attack 7 3 6
+attack 8 3 2
+attack 9 1 8
+move 3 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 7
+attack 3 0 1
+move 7 3
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 6
+attack 8 1 9
+attack 9 2 6
+move 2 0
+move 3 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 8
+attack 3 0 4
+attack 7 3 3
+attack 8 3 9
+attack 9 1 8
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 0
+move 7 3
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 10
+attack 7 3 2
+attack 8 2 10
+attack 9 1 2
+move 3 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 8
+move 2 0
+move 3 3
+move 7 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 5
+attack 3 0 2
+attack 7 1 2
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 3 2
+attack 8 3 3
+move 2 3
+move 7 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 9
+move 3 3
+move 7 2
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 3
+attack 7 0 9
+attack 8 0 2
+move 2 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 4
+attack 8 1 8
+move 3 3
+move 7 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 10
+attack 7 0 4
+attack 9 3 1
+move 2 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 4
+attack 3 3 1
+attack 8 1 9
+move 7 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 9
+attack 7 3 10
+attack 8 3 6
+move 3 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 4
+move 2 3
+move 3 0
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 1
+attack 7 0 2
+move 3 3
+move 8 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 3 0 4
+attack 9 1 4
+move 2 1
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 5
+attack 7 0 8
+move 3 3
+move 8 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 5
+move 2 1
+move 3 3
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 3
+move 7 2
+move 8 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 4
+attack 9 1 6
+move 2 2
+move 3 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 9
+move 3 1
+move 7 0
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 0 4
+move 2 2
+move 3 1
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 6
+attack 7 0 1
+move 3 1
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 8
+move 2 0
+move 3 1
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 3 2
+move 2 0
+move 3 1
+move 7 3
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 7
+attack 9 1 5
+move 2 0
+move 3 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 3
+move 7 3
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 8 387
+attack 7 1 1
+attack 9 2 1
+move 2 2
+move 3 2
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 9
+move 2 2
+move 3 2
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 3
+move 2 2
+move 3 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 2 145
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 3
+attack 9 3 10
+move 2 3
+move 3 2
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 5
+attack 7 1 6
+attack 9 1 3
+move 3 1
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 4
+move 2 0
+move 3 2
+move 7 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 2
+attack 9 2 1
+move 2 2
+move 3 2
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 3
+attack 9 1 10
+move 3 1
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 1
+attack 8 0 6
+move 2 2
+move 3 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 3
+attack 8 3 2
+attack 9 1 10
+move 3 1
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+move 2 1
+move 3 2
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+attack 3 0 4
+attack 8 0 2
+attack 9 3 4
+move 2 1
+OK
+fuel 0 0
+fuel 1 0
+attack 8 1 1
+move 2 1
+move 3 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+attack 3 0 9
+attack 9 3 9
+move 2 2
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+attack 8 1 7
+move 2 2
+move 3 0
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+attack 9 3 1
+move 2 2
+move 3 3
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+attack 3 3 5
+attack 8 1 7
+move 2 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+attack 9 1 9
+move 2 2
+move 3 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+attack 3 3 5
+attack 8 1 9
+move 2 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+attack 9 1 5
+move 2 2
+move 3 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+missile 2 161
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 2
+move 2 0
+move 3 1
+move 7 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 0
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 9
+move 2 0
+move 3 1
+move 7 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 1
+attack 9 2 7
+move 2 0
+move 3 1
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 5
+move 2 0
+move 3 1
+move 7 0
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 2 19
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 3
+move 2 0
+move 3 1
+move 7 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 10
+attack 9 2 8
+move 2 0
+move 3 1
+move 7 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 9
+move 2 2
+move 3 1
+move 7 0
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 3
+attack 8 3 10
+move 3 1
+move 7 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 8
+move 2 2
+move 3 1
+move 7 2
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 1
+move 2 2
+move 3 1
+move 7 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 9
+attack 9 1 9
+move 2 2
+move 3 1
+move 7 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 6
+move 2 2
+move 3 1
+move 7 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 1
+attack 8 3 5
+move 3 1
+move 7 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 5
+attack 9 1 8
+move 2 3
+move 3 1
+move 7 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 5
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 8
+move 2 3
+move 3 1
+move 7 2
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 3
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 6
+move 2 3
+move 3 1
+move 7 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 7 171
+attack 9 3 9
+move 2 3
+move 3 1
+move 7 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 9
+attack 9 1 1
+move 2 3
+move 3 1
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 1
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 3
+attack 9 1 2
+move 2 3
+move 3 1
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 7
+attack 9 2 10
+move 2 3
+move 3 1
+move 7 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 3
+move 8 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 9
+attack 9 0 1
+move 2 3
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 1
+attack 9 0 8
+move 2 3
+move 3 1
+move 7 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 5
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 6
+move 3 1
+move 7 2
+move 8 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 4
+attack 8 1 9
+attack 9 0 10
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 10
+move 2 3
+move 3 1
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 6
+attack 8 3 3
+move 3 1
+move 7 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 8
+move 2 3
+move 3 1
+move 7 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 2
+attack 9 2 10
+move 3 1
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 1
+move 2 1
+move 3 1
+move 7 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 4
+attack 9 2 9
+move 2 3
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 10
+move 3 1
+move 7 3
+move 8 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 1
+attack 9 1 3
+move 2 1
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 7 387
+attack 9 2 4
+move 2 2
+move 3 1
+move 7 2
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 4
+attack 8 0 5
+attack 9 0 8
+move 2 2
+move 3 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 2 6
+attack 8 3 1
+move 3 1
+move 7 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 8
+move 2 0
+move 3 1
+move 7 2
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 6
+attack 8 0 3
+move 2 3
+move 3 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 5
+attack 9 1 9
+move 2 3
+move 3 1
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 3
+move 2 3
+move 3 1
+move 7 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 2
+attack 9 0 3
+move 2 3
+move 3 1
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 1
+attack 8 3 4
+move 2 3
+move 3 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 3
+attack 8 1 6
+move 3 1
+move 7 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 9
+attack 9 2 10
+move 2 0
+move 3 1
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 4
+attack 8 3 10
+attack 9 1 8
+move 2 3
+move 3 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 8
+attack 7 0 4
+attack 9 2 5
+move 3 1
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 8
+attack 9 1 4
+move 2 3
+move 3 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 6
+attack 8 2 1
+move 3 1
+move 7 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 3
+move 2 3
+move 3 1
+move 7 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 1
+attack 7 1 9
+move 3 1
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 1
+attack 8 2 10
+attack 9 2 1
+move 3 1
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 1
+attack 8 1 7
+attack 9 0 5
+move 2 3
+move 3 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 9
+move 3 1
+move 7 0
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 4
+move 2 3
+move 3 1
+move 7 0
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 1
+move 3 1
+move 7 0
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 5
+attack 8 0 3
+move 3 1
+move 7 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 9
+attack 8 1 5
+attack 9 0 6
+move 3 1
+move 7 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 2
+attack 9 2 4
+move 2 0
+move 3 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 10
+move 2 3
+move 3 1
+move 7 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 6
+move 3 1
+move 7 1
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 0 9
+move 2 0
+move 3 1
+move 7 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 9
+move 2 3
+move 3 1
+move 7 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 4
+attack 8 2 6
+move 3 1
+move 7 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 3
+move 8 2
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 3
+move 2 3
+move 3 1
+move 7 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 3
+move 8 2
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 3
+move 2 3
+move 3 1
+move 7 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 6
+attack 9 3 3
+move 2 3
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 0 8
+move 2 3
+move 3 1
+move 7 3
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 6
+attack 9 3 2
+move 2 1
+move 3 1
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 6
+move 2 1
+move 3 1
+move 7 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 5
+move 2 3
+move 3 1
+move 7 1
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 7
+move 2 0
+move 3 1
+move 7 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 10
+move 2 0
+move 3 1
+move 7 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 0 7
+move 2 0
+move 3 1
+move 7 1
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 1
+move 8 2
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 3
+move 2 3
+move 3 1
+move 7 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 2
+attack 8 1 7
+move 2 3
+move 3 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 2
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 10
+move 2 3
+move 3 1
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 4
+attack 9 3 5
+move 2 3
+move 3 1
+move 7 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 0
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 3
+attack 9 0 2
+move 2 0
+move 3 1
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 3 9
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 7
+move 2 0
+move 3 1
+move 7 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 1
+move 8 1
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 2
+attack 9 3 6
+move 2 3
+move 3 1
+move 7 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 2
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 2
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 8
+attack 8 1 1
+move 2 1
+move 3 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 10
+attack 8 1 1
+move 2 1
+move 3 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 2
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 8
+attack 8 1 2
+move 2 1
+move 3 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 2
+move 2 1
+move 3 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 2
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 4
+attack 8 3 1
+attack 9 1 10
+move 2 3
+move 3 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 2
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 1
+attack 8 3 1
+move 2 1
+move 3 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 0
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 4
+move 2 1
+move 3 1
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 9 134
+missile 9 459
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 9 2
+missile 9 159
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 10
+move 2 1
+move 3 1
+move 7 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 2
+move 2 1
+move 3 1
+move 7 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 1
+move 2 3
+move 3 1
+move 7 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 3 6
+attack 8 3 3
+attack 9 1 8
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 6
+move 2 1
+move 3 1
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 9
+move 3 1
+move 7 2
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 3
+move 2 1
+move 3 1
+move 7 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 4
+attack 9 1 8
+move 2 1
+move 3 1
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 3
+move 3 1
+move 7 0
+move 8 3
+move 9 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 7
+move 3 1
+move 7 0
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 9
+attack 9 1 5
+move 2 1
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 3
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 9
+attack 8 0 3
+move 3 1
+move 7 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 3 8
+move 2 1
+move 3 1
+move 7 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 10
+move 2 1
+move 3 1
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 3
+move 3 1
+move 7 0
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 9
+move 2 1
+move 3 1
+move 7 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 3
+move 2 1
+move 3 1
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 9
+attack 8 0 10
+move 3 1
+move 7 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 3
+move 2 2
+move 3 1
+move 7 0
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 3
+move 8 3
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 4
+attack 8 0 10
+move 3 1
+move 7 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 0
+move 8 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 2
+attack 9 0 9
+move 2 2
+move 3 1
+move 7 3
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 1
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 4
+move 3 1
+move 7 3
+move 8 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 3
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 0 1
+move 2 2
+move 3 1
+move 7 3
+move 8 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 3
+move 8 0
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 0 10
+move 3 1
+move 7 3
+move 8 0
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 8 58
+attack 7 3 2
+attack 9 0 7
+move 2 0
+move 3 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 3
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 0 2
+move 2 1
+move 3 1
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 3 3
+move 2 1
+move 3 1
+move 8 0
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 3
+move 8 3
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 6
+move 2 2
+move 3 1
+move 8 0
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 8 353
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 0
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 2 131
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 4
+move 2 1
+move 3 1
+move 7 2
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 4
+move 2 1
+move 3 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 1
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 8
+move 2 1
+move 3 1
+move 7 3
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 1 3
+move 2 1
+move 3 1
+move 7 3
+move 8 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 1 3
+move 2 2
+move 3 1
+move 8 2
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 1
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 7 519
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+fuel 7 136
+fuel 9 73
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 2 43
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 10
+move 2 2
+move 3 1
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 2 8
+move 2 0
+move 3 1
+move 7 0
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+missile 2 238
+fuel 4 0
+fuel 5 0
+fuel 6 0
+missile 7 209
+move 2 0
+move 3 1
+move 7 0
+move 8 2
+move 9 0
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 0 7
+move 2 2
+move 3 1
+move 7 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 8 1 4
+move 2 2
+move 3 1
+move 7 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 2
+move 3 1
+move 7 2
+move 8 1
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 9 2 1
+move 2 2
+move 3 1
+move 7 2
+move 8 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 2 1 4
+move 3 1
+move 7 1
+move 8 1
+move 9 1
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+move 2 1
+move 3 1
+move 7 2
+move 8 2
+move 9 2
+OK
+fuel 0 0
+fuel 1 0
+fuel 4 0
+fuel 5 0
+fuel 6 0
+attack 7 2 2
+move 2 2
+move 3 1
+move 8 2
+move 9 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK

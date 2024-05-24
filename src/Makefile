@@ -2,13 +2,13 @@
 CXX = clang++
 
 # Compiler flags
-CXXFLAGS = -std=c++17 -Wall -Wextra -O2
+CXXFLAGS = -std=c++17 -Wall -Wextra -O3
 
 # Executable name
-TARGET = game
+TARGET = gamer
 
 # Source files
-SRCS = game.cpp map.cpp base.cpp fighter.cpp utils.cpp
+SRCS = gamer.cpp map.cpp base.cpp fighter.cpp utils.cpp
 
 # Object files (replace .cpp with .o)
 OBJS = $(SRCS:.cpp=.o)

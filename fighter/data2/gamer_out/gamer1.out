@@ -24,11 +24,11 @@ attack 0 2 1
 attack 1 2 3
 move 2 2
 OK
-move 0 1
+move 0 2
 move 1 0
 move 2 0
 OK
-attack 0 2 4
+attack 0 1 4
 move 1 0
 move 2 0
 OK
@@ -36,7 +36,7 @@ move 0 2
 move 1 0
 move 2 0
 OK
-attack 0 2 2
+attack 0 1 2
 move 1 2
 move 2 2
 OK
