@@ -13,7 +13,7 @@
 #include "utils.h"
 
 #define INT_MAX 2147483647
-#define DEBUG 15000 // Set to a frame number to enable debug output for the last 10 frames
+// #define DEBUG 1327 // Set to a frame number to enable debug output for the last 10 frames
 
 using namespace std;
 
@@ -25,7 +25,6 @@ string trim(const string &str)
     size_t last = str.find_last_not_of(' ');
     return str.substr(first, last - first);
 }
-
 
 void debugPrint(Map &gameMap, vector<Base *> &fuelBlueBases, vector<Base *> &missileBlueBases, vector<Base *> &resourcefulBlueBases, vector<Base *> &redBases, vector<Fighter> &fighters, map<Fighter *, Base *> &fighterTargets)
 {
@@ -141,7 +140,6 @@ void debugPrint(Map &gameMap, vector<Base *> &fuelBlueBases, vector<Base *> &mis
 int main()
 {
 
-
 #ifdef DEBUG
     // Clear the debug file
     std::ofstream debugFile("debug.txt");
@@ -219,6 +217,9 @@ int main()
         fighters.push_back(fighter);
     }
 #ifdef DEBUG
+    // Print the map size
+    printDebugMessage("Map size: " + to_string(n) + "x" + to_string(m));
+
     // print most possible fuel and missile, summed up from all blue bases
     int totalFuel = 0;    // Total fuel from all blue bases
     int totalMissile = 0; // Total missile from all blue bases

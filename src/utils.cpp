@@ -208,7 +208,8 @@ void findBlueBase(Map &gameMap, vector<Fighter> &fighters, vector<Base *> &fuelB
         auto orderedFuelBases = orderBaseDistance(fighter, fuelBlueBases);
         int orderedFuelBasesSize = orderedFuelBases.size();
 
-        int checkBase = orderedFuelBasesSize <= 2 ? 0 : 2;
+        // Make sure it can reach the second nearest base to be safe
+        int checkBase = orderedFuelBasesSize <= 1 ? 0 : 1;
         int roughDistanceToNearestBase = orderedFuelBases[checkBase] ? calculateDistanceL1(fighter.getLocation(), orderedFuelBases[checkBase]->getLocation()) : INT_MAX;
         if (fighter.getCurrentFuel() < roughDistanceToNearestBase + 10) // fuel is short
             needFuel = true;
